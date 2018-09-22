@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <h3>我大中华,人才济济</h3>
+
+    <h4>模板文件：HTML文件+模板语言</h4>
+
+    {% for name in names %}
+    <p>{{ name }}</p>
+    {% endfor %}
+
+
+    {% for grade in grades %}
+     <p>{{ grade.name }}  {{grade.date}}</p>
+    {% endfor %}
+
+    {% for student in students %}
+        <p>{{ student.name }} {{ student.gender }} {{ student.age }} {{ student.info }}</p>
+    {% endfor %}
+
+
+</body>
+</html>

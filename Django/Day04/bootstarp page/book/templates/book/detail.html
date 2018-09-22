@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+            <h3>书籍详情</h3>
+                <p>{{ book.title }}</p>
+                <p>
+                    <a href="{% url 'author:detail' book.author.id %}">
+                    {{ book.author }}
+                   </a>
+                </p>
+                {% for publisher in book.publishers.all %}
+                    <a href="{% url 'publisher:detail' publisher.id %}">{{ publisher }}</a>
+                    {% if not forloop.last %}
+                        | 哈哈，你被我控制了
+                    {% endif %}
+                {% endfor %}
+
+</body>
+</html>

@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="153ad8ab-458a-4c68-aac1-4281380f07cb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Day01/Day01Django/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day01/Day01Django/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day01/Day01Django/App/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day01/Day01Django/App/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day01/Day01Django/showtime/templates/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day01/Day01Django/showtime/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/Day02Django/.idea/Day02Django.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/Day02Django/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/Day02Django/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/Day02Django/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/Day02Django/Student/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/Day02Django/Student/templates/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/Day02Django/Student/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/Day02Django/Student/templates/success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/Day03Django/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/author/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/author/templates/author/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/author/templates/author/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/author/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/book/migrations/0002_auto_20180912_1545.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/book/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/book/templates/book/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/book/templates/book/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/book/templates/book/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/book/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/publisher/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/publisher/templates/publisher/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/publisher/templates/publisher/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/publisher/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day04/model属性练习/App/migrations/0003_person_birthday.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day04/model属性练习/App/migrations/0004_person_birthday2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day04/model属性练习/App/migrations/0005_auto_20180913_1219.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/manytomany/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/manytomany/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/onetomany/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/onetomany/migrations/0002_auto_20180914_1249.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/onetomany/migrations/0003_auto_20180914_1256.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/onetomany/migrations/0004_auto_20180914_1300.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/onetomany/migrations/0005_auto_20180915_0105.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/onetomany/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/onetoone/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/onetoone/migrations/0002_auto_20180915_0129.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/onetoone/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/.idea/CookieAndSession.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/CookieApp/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/CookieApp/migrations/0002_auto_20180918_0802.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/CookieApp/migrations/0003_auto_20180918_0827.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/CookieApp/migrations/0004_auto_20180918_0828.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/CookieApp/migrations/0005_usermodel_token.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/CookieApp/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/CookieApp/templates/CookieApp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/CookieApp/templates/CookieApp/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/CookieApp/templates/CookieApp/regist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/CookieApp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day06/Day06Django/.idea/Day06Django.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day06/Day06Django/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day06/Day06Django/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day06/Day06Django/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day06/Day06Django/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day06/Day06Django/ViewApp/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day06/Day06Django/ViewApp/templates/ViewApp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day06/Day06Django/ViewApp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day06/Day06Django/templates/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day07/Day07django/.idea/Day07django.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day07/Day07django/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day07/Day07django/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day07/Day07django/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day07/Day07django/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day07/高级进阶/newday/migrations/0003_usermodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day07/高级进阶/newday/templates/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day07/高级进阶/newday/templates/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day07/高级进阶/static/myapp/img/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day07/高级进阶/static/myapp/img/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day07/高级进阶/static/myapp/img/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day07/高级进阶/static/myapp/img/22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day07/高级进阶/static/myapp/img/33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day07/高级进阶/static/myapp/img/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day07/高级进阶/static/myapp/img/b1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day07/高级进阶/static/myapp/img/b2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day07/高级进阶/static/myapp/img/b3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day07/高级进阶/static/myapp/img/b4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/axf/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/axf/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/static/main/css/base_main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/static/main/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/static/main/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/static/main/css/swiper.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/static/main/img/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/static/main/img/cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/static/main/img/cart_selected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/static/main/img/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/static/main/img/home_selected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/static/main/img/market.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/static/main/img/market_selected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/static/main/img/mine.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/static/main/img/mine_selected.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/static/main/js/base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/static/main/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/static/main/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/static/main/js/md5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/static/main/js/swiper.jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/templates/axf/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/templates/axf/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/templates/axf/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/templates/axf/market.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/templates/axf/mine.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/Day08Django/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/Day08Django/CacheApp/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/Day08Django/CacheApp/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/Day08Django/CacheApp/templates/CacheApp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/Day08Django/CacheApp/templates/CacheApp/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/Day08Django/CacheApp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/Day08Django/Middleapp/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/Day08Django/Middleapp/templates/middleapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/Day08Django/Middleapp/templates/middleapp/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/Day08Django/Middleapp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/Day08Django/middleware/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/Day08Django/myapp/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/Day08Django/myapp/migrations/0002_auto_20180920_0124.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/Day08Django/myapp/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/Day08Django/myapp/templates/myapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/Day08Django/myapp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/Day08Django/static/ADOBEARABIC-BOLD.OTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/Day08Django/static/ADOBEARABIC-BOLDITALIC.OTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/Day08Django/static/ADOBEARABIC-ITALIC.OTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/Day08Django/static/ADOBEARABIC-REGULAR.OTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/Day08Django/static/fonts/ADOBEARABIC-BOLD.OTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/Day08Django/static/fonts/ADOBEARABIC-BOLDITALIC.OTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/Day08Django/static/fonts/ADOBEARABIC-ITALIC.OTF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/Day08Django/static/fonts/ADOBEARABIC-REGULAR.OTF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../other/a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../other/shiyan" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1877889781">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py@axf" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CommandLine" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="762" />
+    <option name="height" value="721" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Day08/AXF" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="axf" type="Python.DjangoServer" factoryName="Django server">
+      <module name="axf" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="153ad8ab-458a-4c68-aac1-4281380f07cb" name="Default Changelist" comment="" />
+      <created>1537492835456</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537492835456</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1849" height="866" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25235197" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="manage.py@axf" weight="0.32928476" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.24291497" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.32982844" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+</project>

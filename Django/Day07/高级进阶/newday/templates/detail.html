@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>用户信息</title>
+</head>
+<body>
+{% load static %}
+用户姓名: <p>{{ user.name }}</p>
+
+用户头像: <img src="/static/upfile/{{ user.icon }}" alt="">
+<img src="{% static '/upfile/' %}{{ user.icon }}" alt="">
+</body>
+</html>

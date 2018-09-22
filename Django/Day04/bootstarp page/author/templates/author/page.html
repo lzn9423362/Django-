@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="http://cdn.bootcss.com/bootstrap/3.3.0/css/bootstrap.min.css">
+
+
+</head>
+<body>
+<h3>显示作者数据</h3>
+
+
+<ul>
+    {% for author in authors %}
+        <li>{{ author }}</li>
+    {% endfor %}
+
+
+</ul>
+
+{#        {% for pages in pages_list %}#}
+{#            {% if pages == page %}#}
+{#                                    <a style="color: red" href="{% url 'author:page' pages %}">{{ pages }}</a>#}
+{#                {% else %}#}
+{#                <a  href="{% url 'author:page' pages %}">{{ pages }}</a>#}
+{#                        {% endif %}#}
+{##}
+{#        {% endfor %}#}
+
+<nav aria-label="Page navigation">
+    <ul class="pagination">
+        <li>
+            <a href="{% url 'author:page' page_prev %}" aria-label="Previous">
+                <span id="prev" aria-hidden="true">&laquo;</span>
+            </a>
+        </li>
+        {#    <li><a href="#">1</a></li>#}
+        {#    <li><a href="#">2</a></li>#}
+        {#    <li><a href="#">3</a></li>#}
+        {#    <li><a href="#">4</a></li>#}
+        {#    <li><a href="#">5</a></li>#}
+
+
+        {% for pages in pages_list %}
+            {% if pages == page2 %}
+                <li><a style="background: gray" href="{% url 'author:page' pages %}">{{ pages }}</a></li>
+            {% else %}
+                <li><a href="{% url 'author:page' pages %}">{{ pages }}</a></li>
+            {% endif %}
+
+        {% endfor %}
+        <li>
+
+
+            <a href="{% url 'author:page' page_next %}" aria-label="Next">
+                <span aria-hidden="true">&raquo;</span>
+            </a>
+        </li>
+    </ul>
+</nav>
+
+
+</body>
+</html>

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h2>哈哈,你被我控制了</h2>
+    <p>
+    {{ user }} ,欢迎你.
+    <a href="{% url 'CookieApp:logout' %}">注销</a>
+    </p>
+
+    <a href="{% url 'CookieApp:login' %}">登录</a>
+
+    <a href="{% url 'CookieApp:showregist' %}">注册</a>
+
+
+
+</body>
+</html>

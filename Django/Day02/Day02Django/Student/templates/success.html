@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h2>提交成功</h2>
+
+<a href="{% url 'student:index' %}">返回首页</a>
+
+
+<h2>模板语言语法</h2>
+
+我叫{{ name  }},今年{{ age }}, 我喜欢{{ likes.0 }}
+
+{% if age > 30%}
+    <p style='color: red'>年纪大了</p.style>
+{% endif %}
+
+{% if sex %}
+    男
+{% else %}
+    女
+{% endif %}
+
+{% if age > 30 %}
+    <p style="color: aqua">年纪大了</p>
+{% elif age > 20 %}
+    <p style="color: red">青春活力</p>
+{% else %}
+    <p style="color: chartreuse">小孩</p>
+{% endif %}
+
+
+<h3>for</h3>
+
+{% for like in likes %}
+    {% if forloop.first %}
+        <p style="color: chartreuse">
+
+    {% elif forloop.last %}
+            <p style="color: red">
+        {% else %}
+        <p>
+    {% endif %}
+
+{{ like }}
+    counter:{{ forloop.counter }}
+    counter0:{{ forloop.counter0 }}
+    revcounter:{{ forloop.revcounter }}
+    revcounter0:{{ forloop.revcounter0 }}
+
+    </p>
+
+    {% empty %}
+    <p>我还是比较凤姐</p>
+{% endfor %}
+
+
+<table border="1" cellpadding="0" cellspacing="0">
+{% for city_list in citys %}
+    <tr>
+    {% for city in city_list %}
+        <td> {{ city }} {{ forloop.parentloop.counter0 }}</td>
+    {% endfor %}
+    </tr>
+{% endfor %}
+</table>
+
+<h3>过滤器</h3>
+<p>{{ age|add:2 }}</p>
+<p>{{ age|add:-2 }}</p>
+<p>{{ 'hello'|upper }}</p>
+<p>{{ 'hello'|first|upper }}</p>
+<p>{{ 'helloworld'|truncatechars:9 }}</p>
+<p>{{ hobit|default:'写代码' }}</p>
+<p>{{ 'hello'|join:"+" }}</p>
+<p>{{ now|date:'y-m-d' }}</p></p>
+
+
+<p>{{ code2|safe }}</p>
+
+<p>{{ code3 }}</p>
+
+{#<p>{{ code3|safe }}</p>#}
+
+
+{% autoescape on %}
+    <p>{{ code3 }}</p>
+{% endautoescape %}
+
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+</body>
+</html>

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+  <h3>作者</h3>
+    <p>作者的姓名{{ author }}</p>
+    <p>作者的email：{{ author.email }}</p>
+    <p>作者的性别:
+        {% if author.gender %}
+                  男
+            {% else %}
+            女
+        {% endif %}
+    </p>
+
+</body>
+</html>
