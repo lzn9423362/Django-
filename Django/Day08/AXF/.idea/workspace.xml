@@ -5,200 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e803f5b-bce6-4a36-9099-9dcc04bb5f76" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Day01/Day01Django/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day01/Day01Django/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day01/Day01Django/App/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day01/Day01Django/App/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day01/Day01Django/showtime/templates/index1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day01/Day01Django/showtime/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day02/Day02Django/.idea/Day02Django.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day02/Day02Django/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day02/Day02Django/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day02/Day02Django/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day02/Day02Django/Student/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day02/Day02Django/Student/templates/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day02/Day02Django/Student/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day02/Day02Django/Student/templates/success.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/Day03Django/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/author/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/author/templates/author/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/author/templates/author/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/author/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/book/migrations/0002_auto_20180912_1545.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/book/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/book/templates/book/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/book/templates/book/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/book/templates/book/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/book/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/publisher/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/publisher/templates/publisher/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/publisher/templates/publisher/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/publisher/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day04/model属性练习/App/migrations/0003_person_birthday.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day04/model属性练习/App/migrations/0004_person_birthday2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day04/model属性练习/App/migrations/0005_auto_20180913_1219.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/manytomany/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/manytomany/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/onetomany/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/onetomany/migrations/0002_auto_20180914_1249.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/onetomany/migrations/0003_auto_20180914_1256.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/onetomany/migrations/0004_auto_20180914_1300.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/onetomany/migrations/0005_auto_20180915_0105.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/onetomany/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/onetoone/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/onetoone/migrations/0002_auto_20180915_0129.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/onetoone/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/.idea/CookieAndSession.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/CookieApp/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/CookieApp/migrations/0002_auto_20180918_0802.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/CookieApp/migrations/0003_auto_20180918_0827.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/CookieApp/migrations/0004_auto_20180918_0828.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/CookieApp/migrations/0005_usermodel_token.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/CookieApp/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/CookieApp/templates/CookieApp/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/CookieApp/templates/CookieApp/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/CookieApp/templates/CookieApp/regist.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/CookieApp/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/Day06Django/.idea/Day06Django.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/Day06Django/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/Day06Django/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/Day06Django/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/Day06Django/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/Day06Django/ViewApp/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/Day06Django/ViewApp/templates/ViewApp/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/Day06Django/ViewApp/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/Day06Django/templates/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day07/Day07django/.idea/Day07django.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day07/Day07django/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day07/Day07django/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day07/Day07django/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day07/Day07django/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day07/高级进阶/newday/migrations/0003_usermodel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day07/高级进阶/newday/templates/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day07/高级进阶/newday/templates/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day07/高级进阶/static/myapp/img/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day07/高级进阶/static/myapp/img/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day07/高级进阶/static/myapp/img/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day07/高级进阶/static/myapp/img/22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day07/高级进阶/static/myapp/img/33.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day07/高级进阶/static/myapp/img/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day07/高级进阶/static/myapp/img/b1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day07/高级进阶/static/myapp/img/b2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day07/高级进阶/static/myapp/img/b3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day07/高级进阶/static/myapp/img/b4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/axf/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/axf/migrations/0002_goods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/axf/migrations/0003_auto_20180922_0621.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/axf/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/axf/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/app/cart/cart.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/app/home/home.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/app/home/home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/app/market/market.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/app/market/market.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/app/mine/mine.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/base_main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/swiper.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/cart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/cart_selected.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/home.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/home_selected.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/market.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/market_selected.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/mine.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/mine_selected.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/base.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/md5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/swiper.jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/axf/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/axf/cart.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/axf/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/axf/market.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/axf/mine.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day08Django/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day08Django/CacheApp/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day08Django/CacheApp/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day08Django/CacheApp/templates/CacheApp/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day08Django/CacheApp/templates/CacheApp/index2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day08Django/CacheApp/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day08Django/Middleapp/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day08Django/Middleapp/templates/middleapp/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day08Django/Middleapp/templates/middleapp/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day08Django/Middleapp/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day08Django/middleware/hello.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day08Django/myapp/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day08Django/myapp/migrations/0002_auto_20180920_0124.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day08Django/myapp/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day08Django/myapp/templates/myapp/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day08Django/myapp/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day08Django/static/ADOBEARABIC-BOLD.OTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day08Django/static/ADOBEARABIC-BOLDITALIC.OTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day08Django/static/ADOBEARABIC-ITALIC.OTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day08Django/static/ADOBEARABIC-REGULAR.OTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day08Django/static/fonts/ADOBEARABIC-BOLD.OTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day08Django/static/fonts/ADOBEARABIC-BOLDITALIC.OTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day08Django/static/fonts/ADOBEARABIC-ITALIC.OTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day08Django/static/fonts/ADOBEARABIC-REGULAR.OTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day09/AXF/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day09/AXF/APP/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day09/AXF/APP/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day09/AXF/APP/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day09/AXF/static/app/cart/cart.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day09/AXF/static/app/home/home.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day09/AXF/static/app/market/market.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day09/AXF/static/app/mine/mine.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day09/AXF/static/css/base_main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day09/AXF/static/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day09/AXF/static/css/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day09/AXF/static/css/swiper.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day09/AXF/static/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day09/AXF/static/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day09/AXF/static/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day09/AXF/static/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day09/AXF/static/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day09/AXF/static/img/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day09/AXF/static/img/cart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day09/AXF/static/img/cart_selected.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day09/AXF/static/img/home.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day09/AXF/static/img/home_selected.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day09/AXF/static/img/market.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day09/AXF/static/img/market_selected.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day09/AXF/static/img/mine.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day09/AXF/static/img/mine_selected.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day09/AXF/static/js/base.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day09/AXF/static/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day09/AXF/static/js/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day09/AXF/static/js/md5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day09/AXF/static/js/swiper.jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day09/AXF/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day09/AXF/templates/base_main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day09/AXF/templates/cart/cart.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day09/AXF/templates/home/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day09/AXF/templates/market/market.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day09/AXF/templates/mine/mine.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../other/a.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../other/shiyan" beforeDir="false" />
     </list>
@@ -330,8 +136,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/axf/market.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+            <state relative-caret-position="330">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
               <folding>
                 <element signature="e#288#308#0#HTML" expanded="true" />
                 <element signature="e#335#586#0#HTML" />
@@ -701,10 +507,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1849" height="866" extended-state="6" />
+    <frame x="67" y="25" width="1313" height="807" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8187251" visible="true" weight="0.105146654" />
-      <window_info id="Structure" order="1" sideWeight="0.1812749" side_tool="true" visible="true" weight="0.105146654" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8171558" visible="true" weight="0.1494886" />
+      <window_info id="Structure" order="1" sideWeight="0.18284424" side_tool="true" visible="true" weight="0.1494886" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -715,7 +522,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="manage.py@AXF" order="9" visible="true" weight="0.32253712" />
+      <window_info active="true" anchor="bottom" id="manage.py@AXF" order="9" visible="true" weight="0.35043988" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.35357624" />
@@ -725,7 +532,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.23519646" />
+      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.33438239" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -991,8 +798,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/axf/market.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+        <state relative-caret-position="330">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
           <folding>
             <element signature="e#288#308#0#HTML" expanded="true" />
             <element signature="e#335#586#0#HTML" />
