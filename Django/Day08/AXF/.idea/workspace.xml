@@ -6,29 +6,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e803f5b-bce6-4a36-9099-9dcc04bb5f76" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/axf/forms/login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/app/login/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/app/login/login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/axf/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/axf/register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day02/Day02Django/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day02/Day02Django/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day06/CookieAndSession/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day06/视图进阶/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day06/视图进阶/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day07/Day07django/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day07/Day07django/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day07/高级进阶/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day07/高级进阶/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8e14f22b-48d1-4651-a7fb-e136add4517c.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/8e14f22b-48d1-4651-a7fb-e136add4517c.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day09/AXF/static/app/home/home.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AXF/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/AXF/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/axf/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/axf/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/axf/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/axf/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/app/market/market.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/app/market/market.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/axf/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/axf/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/axf/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/axf/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/axf/market.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/axf/market.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/axf/mine.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/axf/mine.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day08Django/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day08Django/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day08Django/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../Day08Django/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Day09/AXF/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day09/AXF/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day09/AXF/templates/home/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day09/AXF/templates/home/home.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -114,9 +95,9 @@
           <entry key="django_content_type" value="2" />
           <entry key="django_migrations" value="2" />
           <entry key="django_session" value="1" />
-          <entry key="html" value="71" />
+          <entry key="html" value="72" />
           <entry key="huancun" value="1" />
-          <entry key="js" value="34" />
+          <entry key="js" value="35" />
           <entry key="png" value="3" />
           <entry key="py" value="61" />
           <entry key="sql" value="11" />
@@ -126,9 +107,9 @@
         <counts>
           <entry key="CSS" value="40" />
           <entry key="Database Element" value="66" />
-          <entry key="HTML" value="71" />
+          <entry key="HTML" value="72" />
           <entry key="Image" value="3" />
-          <entry key="JavaScript" value="34" />
+          <entry key="JavaScript" value="35" />
           <entry key="Python" value="61" />
           <entry key="Scratch" value="11" />
         </counts>
@@ -160,15 +141,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/axf/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="98" column="9" selection-start-line="98" selection-start-column="9" selection-end-line="98" selection-end-column="9" />
+            <state relative-caret-position="229">
+              <caret line="96" column="27" lean-forward="true" selection-start-line="96" selection-start-column="27" selection-end-line="96" selection-end-column="27" />
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
                 <marker date="1537837381735" expanded="true" signature="2541:2591" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/axf/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-15">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/app/home/home.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -235,15 +234,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
               <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/css/swiper.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -346,6 +336,31 @@
               <item name="AXF" type="462c0819:PsiDirectoryNode" />
               <item name="axf" type="462c0819:PsiDirectoryNode" />
               <item name="forms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AXF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AXF" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AXF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AXF" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AXF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AXF" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AXF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AXF" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="login" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AXF" type="b2602c69:ProjectViewProjectNode" />
@@ -507,10 +522,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1458" height="845" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" sideWeight="0.18803419" side_tool="true" weight="0.16153847" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.8119658" visible="true" weight="0.17019774" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.8119658" visible="true" weight="0.17019774" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.46963564" />
@@ -520,7 +536,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="manage.py@AXF" order="9" visible="true" weight="0.3625" />
+      <window_info anchor="bottom" id="manage.py@AXF" order="9" visible="true" weight="0.3625" />
       <window_info anchor="bottom" id="Database Changes" order="10" weight="0.32928476" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.35357624" />
@@ -607,9 +623,6 @@
     <entry file="file://$PROJECT_DIR$/static/js/swiper.jquery.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/app/home/home.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/axf/base.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -659,13 +672,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/static/app/login/login.js">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/axf/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1110">
-          <caret line="74" column="24" selection-start-line="74" selection-start-column="24" selection-end-line="74" selection-end-column="24" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AXF/settings.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -768,14 +774,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/static/app/home/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/axf/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="98" column="9" selection-start-line="98" selection-start-column="9" selection-end-line="98" selection-end-column="9" />
+        <state relative-caret-position="229">
+          <caret line="96" column="27" lean-forward="true" selection-start-line="96" selection-start-column="27" selection-end-line="96" selection-end-column="27" />
           <folding>
             <element signature="e#0#36#0" expanded="true" />
             <marker date="1537837381735" expanded="true" signature="2541:2591" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/axf/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
