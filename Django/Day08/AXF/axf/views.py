@@ -1,10 +1,15 @@
+from django.http import HttpResponse
 from django.shortcuts import render
 
 # Create your views here.
+from django.views.decorators.cache import cache_page
+
 from axf.models import *
+from django.core.cache import cache
 
 
 def home(request):
+    print('我是home')
     wheel = MainWheel.objects.all()
     nav = MainNav.objects.all()
     mustbuy = MainMustbuy.objects.all()
@@ -25,21 +30,78 @@ def home(request):
     return render(request, 'axf/home.html', data)
 
 
-def market(request):
+
+
+def market(request, categoryid, cid, sortid):
+
     leftSlider = MainFoodTpye.objects.all()
-    productList = Goods.objects.all()
+    if cid == '0':
+        productList = Goods.objects.filter(categoryid=categoryid)
+    else:
+
+        productList = Goods.objects.filter(categoryid=categoryid, childcid=cid)
+    if sortid == '1':
+        productList = productList.order_by('-productnum')
+    elif sortid == '2':
+        productList = productList.order_by('-price')
+    elif sortid == '3':
+        productList = productList.order_by('price')
+
+    group = leftSlider.get(typeid=categoryid)
+    childList = []
+    childnames = group.childtypenames
+    arr1 =childnames.split('#')
+    for str in arr1:
+        arr2 = str.split(':')
+        obj = {'childName': arr2[0], 'childId': arr2[1]}
+        childList.append(obj)
+
+
     data = {
         'leftSlider': leftSlider,
-        'productList':productList,
+        'productList': productList,
+        'childList': childList,
+        'categoryid': categoryid,
+        'cid': cid,
+
     }
     return render(request, 'axf/market.html', data)
+
 
 
 def cart(request):
     return render(request, 'axf/cart.html')
 
 
+
 def mine(request):
     return render(request, 'axf/mine.html')
 
+from .forms.login import LoginForm
+
+
+def login(request):
+    print(request.method)
+    if request.method == 'POST':
+        f = LoginForm(request.POST)
+        if f.is_valid():
+            print(22)
+            name = f.cleaned_data['username']
+            pswd = f.cleaned_data['passwd']
+            return HttpResponse(pswd)
+        else:
+            data = {
+                'form': f,
+                'error': f.errors
+            }
+            print(f.errors)
+            return render(request, 'axf/login.html',data)
+    else:
+        f = LoginForm()
+        return render(request, 'axf/login.html', {'form': f})
+
+
+
+def register(request):
+    return render(request, 'axf/register.html')
 

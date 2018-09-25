@@ -8,8 +8,8 @@
     
     {% endblock %}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-    <link type="text/css" rel="stylesheet" href="{% static 'css/bootstrap.css'%}">
     <link rel="stylesheet" type="text/css" href="{% static 'css/reset.css' %}">
+    <link type="text/css" rel="stylesheet" href="{% static 'css/bootstrap.css'%}">
     <link rel="stylesheet" type="text/css" href="{% static 'css/swiper.css' %}">
     <link rel="stylesheet" type="text/css" href="{% static 'css/base_main.css' %}">
     {% block extcss %}
@@ -21,6 +21,7 @@
     <script type="text/javascript" charset="utf-8" src="{% static 'js/base.js' %}"></script>
     <script type="text/javascript" charset="utf-8" src="{% static 'js/md5.js' %}"></script>
     <script type="text/javascript" charset="utf-8" src="{% static 'js/swiper.jquery.js' %}"></script>
+
 
     {% block linkscript %}
 
@@ -35,11 +36,11 @@
 </header>
 
 
-<div>
+
     {% block base %}
 
     {% endblock base %}
-</div>
+
 
 <footer>
 
@@ -49,7 +50,7 @@
             <dd>主页</dd>
         </dl>
     </a>
-     <a class="market" href="{% url 'AXF:market' %}">
+     <a class="market" href="/axf/market/104749/0/0">
         <dl>
             <dt><span></span></dt>
             <dd>闪送超市</dd>

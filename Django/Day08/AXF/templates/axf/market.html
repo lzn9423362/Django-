@@ -10,8 +10,11 @@
 {% endblock %}
 
 
+
 {% block header %}
-    <div style="margin: auto">闪购</div>
+    <div style="margin: auto">闪购
+
+    </div>
 {% endblock %}
 
 
@@ -22,13 +25,15 @@
 {% block base %}
 
 <div id="market">
+{#左边商品类型#}
 <aside>
 
         <ul>
             {% for foo in leftSlider %}
 
+
               <li>
-                  <a href="">{{ foo.typename }}</a>
+                  <a href="{% url 'AXF:market' foo.typeid 0 0%}">{{ foo.typename }}</a>
               <div class="yellowSlide"></div>
               </li>
 
@@ -39,6 +44,8 @@
 
 </aside>
 
+
+{#类型#}
 <section>
      <nav>
                 <ul>
@@ -89,7 +96,38 @@
             {% endfor %}
 
         </ul>
+
+                <div id="typeid">
+                    <div>
+                          {% for child in childList %}
+                              <a href="{% url 'AXF:market' categoryid child.childId 0 %}"><span>{{ child.childName }}</span>  </a>
+                          {% endfor %}
+                    </div>
+                </div>
+
+
+
+                    <div id="sortdiv">
+                        <div>
+                       <a href="{% url 'AXF:market' categoryid cid 0 %}" class="sorta">
+                            <span>综合排序</span>
+                        </a>
+                        <a href="{% url 'AXF:market' categoryid cid 1 %}" class="sorta">
+                            <span>销量排序</span>
+                        </a>
+                        <a href="{% url 'AXF:market' categoryid cid 2 %}" class="sorta">
+                            <span>价格降序</span>
+                        </a>
+                        <a href="{% url 'AXF:market' categoryid cid 3 %}" class="sorta">
+                            <span>价格升序</span>
+                        </a>
+                        </div>
+                    </div>
+
     </menu>
+
+
+
 
 </section>
 

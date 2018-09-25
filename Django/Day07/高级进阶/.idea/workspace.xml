@@ -2,139 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c02dd0b-ca16-4909-a72c-183a399e943e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Day01/Day01Django/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day01/Day01Django/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day01/Day01Django/App/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day01/Day01Django/App/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day01/Day01Django/showtime/templates/index1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day01/Day01Django/showtime/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day02/Day02Django/.idea/Day02Django.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day02/Day02Django/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day02/Day02Django/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day02/Day02Django/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day02/Day02Django/Student/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day02/Day02Django/Student/templates/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day02/Day02Django/Student/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day02/Day02Django/Student/templates/success.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/Day03Django/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/author/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/author/templates/author/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/author/templates/author/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/author/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/book/migrations/0002_auto_20180912_1545.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/book/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/book/templates/book/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/book/templates/book/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/book/templates/book/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/book/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/publisher/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/publisher/templates/publisher/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/publisher/templates/publisher/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/publisher/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day04/model属性练习/App/migrations/0003_person_birthday.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day04/model属性练习/App/migrations/0004_person_birthday2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day04/model属性练习/App/migrations/0005_auto_20180913_1219.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/manytomany/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/manytomany/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/onetomany/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/onetomany/migrations/0002_auto_20180914_1249.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/onetomany/migrations/0003_auto_20180914_1256.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/onetomany/migrations/0004_auto_20180914_1300.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/onetomany/migrations/0005_auto_20180915_0105.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/onetomany/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/onetoone/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/onetoone/migrations/0002_auto_20180915_0129.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/onetoone/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/.idea/CookieAndSession.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/CookieApp/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/CookieApp/migrations/0002_auto_20180918_0802.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/CookieApp/migrations/0003_auto_20180918_0827.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/CookieApp/migrations/0004_auto_20180918_0828.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/CookieApp/migrations/0005_usermodel_token.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/CookieApp/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/CookieApp/templates/CookieApp/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/CookieApp/templates/CookieApp/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/CookieApp/templates/CookieApp/regist.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/CookieApp/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/Day06Django/.idea/Day06Django.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/Day06Django/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/Day06Django/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/Day06Django/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/Day06Django/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/Day06Django/ViewApp/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/Day06Django/ViewApp/templates/ViewApp/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/Day06Django/ViewApp/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/Day06Django/templates/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day07django/.idea/Day07django.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day07django/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day07django/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day07django/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day07django/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/newday/migrations/0003_usermodel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/newday/templates/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/newday/templates/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/myapp/img/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/myapp/img/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/myapp/img/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/myapp/img/22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/myapp/img/33.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/myapp/img/Thumbs.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/myapp/img/b1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/myapp/img/b2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/myapp/img/b3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/myapp/img/b4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/axf/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/axf/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/static/main/css/base.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/static/main/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/static/main/css/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/static/main/js/base.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/static/main/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/static/main/js/jquery-1.12.3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/templates/axf/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/templates/axf/cart.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/templates/axf/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/templates/axf/market.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/templates/axf/mine.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day08/Day08Django/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day08/Day08Django/CacheApp/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day08/Day08Django/CacheApp/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day08/Day08Django/CacheApp/templates/CacheApp/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day08/Day08Django/CacheApp/templates/CacheApp/index2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day08/Day08Django/CacheApp/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day08/Day08Django/Middleapp/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day08/Day08Django/Middleapp/templates/middleapp/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day08/Day08Django/Middleapp/templates/middleapp/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day08/Day08Django/Middleapp/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day08/Day08Django/middleware/hello.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day08/Day08Django/myapp/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day08/Day08Django/myapp/migrations/0002_auto_20180920_0124.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day08/Day08Django/myapp/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day08/Day08Django/myapp/templates/myapp/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day08/Day08Django/myapp/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day08/Day08Django/static/ADOBEARABIC-BOLD.OTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day08/Day08Django/static/ADOBEARABIC-BOLDITALIC.OTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day08/Day08Django/static/ADOBEARABIC-ITALIC.OTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day08/Day08Django/static/ADOBEARABIC-REGULAR.OTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day08/Day08Django/static/fonts/ADOBEARABIC-BOLD.OTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day08/Day08Django/static/fonts/ADOBEARABIC-BOLDITALIC.OTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day08/Day08Django/static/fonts/ADOBEARABIC-ITALIC.OTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day08/Day08Django/static/fonts/ADOBEARABIC-REGULAR.OTF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../other/a.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../other/shiyan" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/axf/forms/login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/static/app/login/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/static/app/login/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/templates/axf/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day02/Day02Django/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day02/Day02Django/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day06/视图进阶/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day06/视图进阶/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day08/AXF/.idea/dataSources/8e14f22b-48d1-4651-a7fb-e136add4517c.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day08/AXF/.idea/dataSources/8e14f22b-48d1-4651-a7fb-e136add4517c.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day08/AXF/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day08/AXF/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day08/AXF/AXF/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day08/AXF/AXF/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day08/AXF/axf/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day08/AXF/axf/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day08/AXF/axf/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day08/AXF/axf/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day08/AXF/static/app/market/market.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day08/AXF/static/app/market/market.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day08/AXF/templates/axf/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day08/AXF/templates/axf/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day08/AXF/templates/axf/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day08/AXF/templates/axf/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day08/AXF/templates/axf/market.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day08/AXF/templates/axf/market.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day08/AXF/templates/axf/mine.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day08/AXF/templates/axf/mine.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day08/Day08Django/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day08/Day08Django/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day08/Day08Django/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day08/Day08Django/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day09/AXF/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day09/AXF/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -252,15 +139,16 @@
     <session id="-1823755818">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.21" value="2" />
           <entry key="project.open.time.25" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.3" value="3" />
+          <entry key="project.open.time.4" value="3" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -279,26 +167,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="css" value="1" />
           <entry key="django_content_type" value="1" />
           <entry key="django_migrations" value="2" />
           <entry key="django_session" value="2" />
-          <entry key="html" value="12" />
+          <entry key="html" value="17" />
           <entry key="jpg" value="1" />
-          <entry key="js" value="5" />
-          <entry key="newday_students" value="3" />
+          <entry key="js" value="6" />
+          <entry key="newday_students" value="4" />
           <entry key="newday_text" value="1" />
-          <entry key="newday_usermodel" value="2" />
+          <entry key="newday_usermodel" value="3" />
           <entry key="png" value="6" />
-          <entry key="py" value="18" />
+          <entry key="py" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Database Element" value="11" />
-          <entry key="HTML" value="12" />
+          <entry key="CSS" value="1" />
+          <entry key="Database Element" value="13" />
+          <entry key="HTML" value="17" />
           <entry key="Image" value="7" />
-          <entry key="JavaScript" value="5" />
-          <entry key="Python" value="18" />
+          <entry key="JavaScript" value="6" />
+          <entry key="Python" value="31" />
         </counts>
       </usages-collector>
     </session>
@@ -308,8 +198,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/newday/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
-              <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+            <state relative-caret-position="330">
+              <caret line="43" column="36" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
                 <marker date="1537459736891" expanded="true" signature="186:191" ph="..." />
@@ -322,28 +212,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/myapp/js/lzn.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        <entry file="das://4fb3230b-670b-4de0-9ecc-a403f5a18f9a/schema/mydb3/table/newday_usermodel">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/myapp/js/jquery-1.12.3.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+        <entry file="das://4fb3230b-670b-4de0-9ecc-a403f5a18f9a/schema/mydb3/table/newday_students">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/newday/templates/ajaxstudents.html">
+        <entry file="file://$PROJECT_DIR$/middleware/myapp1/myMiddle.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+            <state relative-caret-position="75">
+              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -352,25 +242,16 @@
         <entry file="file://$PROJECT_DIR$/newday/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/newday/templates/list.html">
+        <entry file="file://$PROJECT_DIR$/Day07django/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/newday/templates/upfile.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+            <state relative-caret-position="2100">
+              <caret line="140" column="9" selection-start-line="140" selection-start-column="9" selection-end-line="140" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -381,19 +262,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/newday/models.py">
+        <entry file="file://$PROJECT_DIR$/newday/templates/edit.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+            <state relative-caret-position="210">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/newday/templates/edit.html">
+        <entry file="file://$PROJECT_DIR$/newday/templates/detail.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            <state relative-caret-position="165">
+              <caret line="11" column="57" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/newday/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -462,16 +352,6 @@
               <item name="高级进阶" type="b2602c69:ProjectViewProjectNode" />
               <item name="高级进阶" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="高级进阶" type="b2602c69:ProjectViewProjectNode" />
-              <item name="高级进阶" type="462c0819:PsiDirectoryNode" />
-              <item name="Day07django" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="高级进阶" type="b2602c69:ProjectViewProjectNode" />
-              <item name="高级进阶" type="462c0819:PsiDirectoryNode" />
-              <item name="newday" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -483,7 +363,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="database.console.LAST_STATE" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Day09/axf" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Day07django" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -631,9 +511,9 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1849" height="866" extended-state="6" />
+    <frame x="67" y="25" width="1458" height="845" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28223574" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29872882" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -648,14 +528,14 @@
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32928476" />
       <window_info anchor="bottom" id="manage.py@Day07django" order="10" weight="0.20647773" />
       <window_info anchor="bottom" id="Database Changes" order="11" weight="0.32928476" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.32658568" />
+      <window_info anchor="bottom" id="Terminal" order="12" visible="true" weight="0.3263889" />
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="14" weight="0.32952693" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.24681793" />
+      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.24646893" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -665,13 +545,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/templates/index.html" />
-    <entry file="file://$PROJECT_DIR$/Day07django/wsgi.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/newday/migrations/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$USER_HOME$/.virtualenvs/env/lib/python3.6/site-packages/django/core/handlers/exception.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
@@ -728,13 +601,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://4fb3230b-670b-4de0-9ecc-a403f5a18f9a/schema/mydb3/table/newday_students">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.virtualenvs/env/lib/python3.6/site-packages/django/utils/module_loading.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -745,41 +611,10 @@
     <entry file="file://$PROJECT_DIR$/static/upfile/967476de393ad6d5bb9c7cc830cce555.png" />
     <entry file="file://$PROJECT_DIR$/static/upfile/93c61d0f04be290d961908a472a0c790.png" />
     <entry file="file://$PROJECT_DIR$/static/upfile/7eb0ada1d8481a1a037f093e37276461.png" />
-    <entry file="file://$PROJECT_DIR$/newday/apps.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/newday/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="das://4fb3230b-670b-4de0-9ecc-a403f5a18f9a/schema/mydb3/table/django_session">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day07django/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1980">
-          <caret line="132" column="19" selection-start-line="132" selection-start-column="19" selection-end-line="132" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/newday/templates/detail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="57" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/newday/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -793,30 +628,6 @@
     <entry file="file://$PROJECT_DIR$/static/upfile/64745746cb3f44a8279bc19364d4fd09.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="das://4fb3230b-670b-4de0-9ecc-a403f5a18f9a/schema/mydb3/table/newday_usermodel">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/middleware/myapp1/myMiddle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/newday/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day07django/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/upfile/8cc61ef5cb272b81c7f8e187e78c36dd.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -827,10 +638,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/myapp/js/lzn.js">
+    <entry file="file://$PROJECT_DIR$/Day07django/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newday/admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        <state relative-caret-position="30">
+          <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -841,12 +655,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/newday/templates/edit.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/myapp/css/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/newday/templates/list.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -855,34 +668,103 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/newday/templates/upfile.html">
+    <entry file="file://$PROJECT_DIR$/newday/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/newday/tests.py">
+    <entry file="file://$PROJECT_DIR$/newday/apps.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/newday/models.py">
+    <entry file="file://$PROJECT_DIR$/newday/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/myapp/js/lzn.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="10" selection-start-line="13" selection-start-column="13" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newday/templates/upfile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day07django/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+          <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/newday/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day07django/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2100">
+          <caret line="140" column="9" selection-start-line="140" selection-start-column="9" selection-end-line="140" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newday/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newday/templates/edit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newday/templates/detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="57" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newday/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middleware/myapp1/myMiddle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://4fb3230b-670b-4de0-9ecc-a403f5a18f9a/schema/mydb3/table/newday_students">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://4fb3230b-670b-4de0-9ecc-a403f5a18f9a/schema/mydb3/table/newday_usermodel">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/newday/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+        <state relative-caret-position="330">
+          <caret line="43" column="36" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
             <marker date="1537459736891" expanded="true" signature="186:191" ph="..." />
