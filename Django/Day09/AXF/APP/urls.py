@@ -5,6 +5,6 @@ from APP.views import *
 urlpatterns =[
     url(r'^home/$', home, name='home'),
     url(r'^cart/$', cart, name='cart'),
-    url(r'^market/$', market, name='market'),
+    url(r'^market/(\d+)/(\d+)/(\d+)/$', market, name='market'),
     url(r'^mine/$', mine, name='mine'),
 ]

@@ -34,7 +34,11 @@
 
               <li>
                   <a href="{% url 'AXF:market' foo.typeid 0 0%}">{{ foo.typename }}</a>
+
+                  {% if categoryid == foo.typeid %}
+
               <div class="yellowSlide"></div>
+                  {% endif %}
               </li>
 
             {% endfor %}
@@ -70,7 +74,7 @@
         <ul>
             {% for item in productList %}
                 <li>
-                    <a href="">
+                    <a href="#">
                         <img src="{{ item.productimg }}" alt="">
                             <div class="shoppingInfo">
                                 <h6>{{item.productlongname }}</h6>
@@ -87,16 +91,17 @@
                     </a>
                 <section>
                     <button  class="reduce">-</button>
-                    <span class="num">0</span>
+                    <span class="num">1</span>
                     <button  class="add">+</button>
                 </section>
-                    <button  class="addtocart">加入购物车</button>
+                    <button goodid="{{ item.id }}" class="addtocart">加入购物车</button>
 
                 </li>
             {% endfor %}
 
         </ul>
 
+{#         全部类型#}
                 <div id="typeid">
                     <div>
                           {% for child in childList %}

@@ -131,8 +131,8 @@ def quit(request):
     #这种方式以游客方式清除会报服务器错误
     #session存值时期大概半个月
 
+    # return redirect('/main')
     return redirect('/main')
-
 #设置过期时间set_expiry(value),如果不设置,两个星期后过期
 #整数set_expiry(value)
 #时间对象

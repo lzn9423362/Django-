@@ -28,8 +28,45 @@ def home(request):
 def cart(request):
     return render(request, 'cart/cart.html')
 
-def market(request):
-    return render(request, 'market/market.html')
+
 
 def mine(request):
     return render(request, 'mine/mine.html')
+
+
+
+
+def market(request, categoryid, cid, sortid):
+
+    leftSlider = MainFoodTpye.objects.all()
+    if cid == '0':
+        productList = Goods.objects.filter(categoryid=categoryid)
+    else:
+
+        productList = Goods.objects.filter(categoryid=categoryid, childcid=cid)
+    if sortid == '1':
+        productList = productList.order_by('-productnum')
+    elif sortid == '2':
+        productList = productList.order_by('-price')
+    elif sortid == '3':
+        productList = productList.order_by('price')
+
+    group = leftSlider.get(typeid=categoryid)
+    childList = []
+    childnames = group.childtypenames
+    arr1 =childnames.split('#')
+    for str in arr1:
+        arr2 = str.split(':')
+        obj = {'childName': arr2[0], 'childId': arr2[1]}
+        childList.append(obj)
+
+
+    data = {
+        'leftSlider': leftSlider,
+        'productList': productList,
+        'childList': childList,
+        'categoryid': categoryid,
+        'cid': cid,
+
+    }
+    return render(request, 'market/market.html', data)

@@ -22,12 +22,16 @@
 
         <div class="fixed">
 
+            {% if user %}
+                    <img src="{% static '/uploads/'   %}{{ user.userImg }}" alt="">
+                                    <a href="">{{ user.userAccount }}</a>
 
+                {% else %}
                 <span class="glyphicon glyphicon-user"></span>
-
-
-
                 <a href="/axf/login/">登录</a>
+
+    {% endif %}
+
 
 
             <p>
@@ -115,11 +119,17 @@
                             <dd>关于我们</dd>
                         </dl>
                     </li>
+
+
                 </ul>
             </menu>
+                {% if user %}
 
 
-
+            <p style="margin-bottom: 1.5rem">
+                    <a href="/axf/logout/">退出</a>
+                </p>
+                {% endif %}
 
         </div>
 

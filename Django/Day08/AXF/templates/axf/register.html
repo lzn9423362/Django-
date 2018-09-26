@@ -2,11 +2,11 @@
 {% load static %}
 
 {% block extcss %}
-    <link rel="stylesheet" href="{% static 'app/login/login.css' %}">
+    <link rel="stylesheet" href="{% static 'app/register/register.css' %}">
 {% endblock %}
 
 {% block linkscript %}
-    <link rel="stylesheet" href="{% static 'app/login/login.js' %}">
+    <script src="{% static 'app/register/register.js' %}"></script>
 {% endblock %}
 
 {% block Title %}
@@ -20,3 +20,56 @@
 
 
 
+{% block base %}
+<div id="register">
+            <div id="header">
+                <a href="{% url 'AXF:mine' %}"> <p>返回</p> </a>
+            </div>
+    <form action="{% url 'AXF:register' %}" class="form-horizontal" method="post" enctype="multipart/form-data">
+        {% csrf_token %}
+        <div class="input-group">
+            <span class="input-group-addon">账号</span>
+            <input type="text" name="userAccount"    class="form-control"
+              aria-describedby="basic-addon1"     id="account" placeholder="账号长度为6到18个字符">
+
+        </div>
+            <p id="msg"></p>
+
+
+        <div class="input-group">
+            <span class="input-group-addon">密码</span>
+            <input id="pass" type="password" name="userPass"
+              aria-describedby="basic-addon1"  class="form-control"  placeholder="密码长度至少为8个字符">
+        </div>
+                        <p id="passwdmsg"></p>                 <br>
+
+        <div class="input-group">
+            <span class="input-group-addon">验证</span>
+            <input type="password" name="userPasswd" id="passwd"
+              aria-describedby="basic-addon1"  class="form-control"  placeholder="密码长度为8个字符">
+        </div>
+         <p id="pswdmsg"></p> <br>
+
+
+
+        <div class="input-group">
+            <span class="input-group-addon">邮箱</span>
+            <input name="userAdderss" id='email' type="text" required="required" class="form-control" aria-describedby="basic-addon1">
+        </div>
+        <p id="emailmsg"></p>
+        <br>
+        <div class="input-group">
+            <span class="input-group-addon">头像</span>
+            <input name="userImg" type="file" required="required" class="form-control" aria-describedby="basic-addon1">
+        </div>
+        <br>
+
+        <div class="input-group">
+            <span class="input-group-addon">注册</span>
+            <input value="注册" type="submit" id="registerid" required="required" class="form-control" aria-describedby="basic-addon1">
+        </div>
+        <br>
+
+    </form>
+</div>
+{% endblock %}

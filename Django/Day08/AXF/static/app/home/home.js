@@ -21,11 +21,11 @@ function swiper1() {
 function swiper2() {
 
     var mySwiper = new Swiper ('#swiperMenu', {
-    loop: true,// 循环模式选项
+    // loop: true,// 循环模式选项
     // pagination: '.swiper-pagination',// 如果需要分页器
         slidesPerView:3, //显示3个
         paginationClickable: true, //可以点击
-        spaceBetween:2, //间距为2
+        // spaceBetween:2, //间距为2
 
 
 

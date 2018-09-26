@@ -51,7 +51,6 @@ def generate_icon():
 
     #取随机id
     uid = str(uuid.uuid4())
-    print('uid', uid)
     m = hashlib.md5()
     m.update(uid.encode())
     return m.hexdigest()
