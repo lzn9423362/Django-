@@ -137,4 +137,31 @@ class User(models.Model):
     #     return u
 
 
-    
+class IsSelect(models.Manager):
+    def get_queryset(self):
+        return super(IsSelect, self).get_queryset().filter(isDelete=False)
+
+class orderManager(models.Manager):
+    def get_queryset(self):
+      return super(orderManager, self).get_queryset().filter(isDelete=True)
+
+
+class Cart(models.Model):
+    userAccount = models.CharField(max_length=20)
+    productid = models.CharField(max_length=10)
+    productnum = models.IntegerField()
+    productprice = models.CharField(max_length=10)
+    isChose = models.BooleanField(default=True)
+    productimg = models.CharField(max_length=150)
+    productname = models.CharField(max_length=100)
+    orderid = models.CharField(max_length=32, default='0')
+    isDelete = models.BooleanField(default=False)
+    objects = IsSelect()
+    objects1 = orderManager()
+
+
+class Order(models.Model):
+    orderid = models.CharField(max_length=32)
+    userid = models.CharField(max_length=32)
+    money = models.CharField(max_length=32)
+    progress = models.IntegerField()

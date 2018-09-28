@@ -2,42 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8058ea7d-ace1-47c3-9996-31a004dbf725" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/axf/migrations/0004_user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/axf/migrations/0005_auto_20180925_1352.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/axf/migrations/0006_auto_20180925_1353.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/static/app/register/register.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/static/app/register/register.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day09/AXF/APP/migrations/0002_auto_20180925_1140.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day09/AXF/static/app/market/market.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day05/Day05Django/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day05/Day05Django/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/AXF/axf/migrations/0007_cart.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day06Django/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day06Django/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../视图进阶/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../视图进阶/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../视图进阶/test1/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../视图进阶/test1/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Day07/高级进阶/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day07/高级进阶/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day07/高级进阶/newday/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day07/高级进阶/newday/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Day08/AXF/.idea/dataSources/8e14f22b-48d1-4651-a7fb-e136add4517c.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day08/AXF/.idea/dataSources/8e14f22b-48d1-4651-a7fb-e136add4517c.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Day08/AXF/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day08/AXF/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day08/AXF/AXF/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day08/AXF/AXF/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Day08/AXF/axf/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day08/AXF/axf/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Day08/AXF/axf/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day08/AXF/axf/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Day08/AXF/axf/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day08/AXF/axf/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day08/AXF/static/app/home/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day08/AXF/static/app/home/home.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Day08/AXF/static/app/market/market.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day08/AXF/static/app/market/market.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day08/AXF/templates/axf/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day08/AXF/templates/axf/cart.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day08/AXF/templates/axf/market.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day08/AXF/templates/axf/market.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day08/AXF/templates/axf/mine.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day08/AXF/templates/axf/mine.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day08/AXF/templates/axf/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day08/AXF/templates/axf/register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day09/AXF/.idea/dataSources/db007007-28df-4ed6-b6db-ac673fd546b3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day09/AXF/.idea/dataSources/db007007-28df-4ed6-b6db-ac673fd546b3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day09/AXF/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day09/AXF/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day09/AXF/APP/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day09/AXF/APP/migrations/0002_mainshow.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day09/AXF/APP/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day09/AXF/APP/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day09/AXF/APP/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day09/AXF/APP/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day09/AXF/APP/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day09/AXF/APP/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day09/AXF/static/app/home/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day09/AXF/static/app/home/home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day09/AXF/templates/base_main.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day09/AXF/templates/base_main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day09/AXF/templates/market/market.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day09/AXF/templates/market/market.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day08/AXF/static/app/register/register.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day08/AXF/static/app/register/register.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day08/AXF/static/uploads/43065d2341a58e69b9e2c6ad83dbb2be.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day08/AXF/static/uploads/aab8835b8ba83b6f002a7c9324b36fb6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day08/AXF/static/uploads/ae8746a6b848701a983b5e0ecdd0d846.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day08/AXF/static/uploads/eadda97d66811977e8e97a98a320c951.jpg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,14 +60,14 @@
     <session id="-551072446">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.13" value="1" />
-          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.3" value="6" />
           <entry key="project.open.time.4" value="3" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -151,8 +129,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CookieApp/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+            <state relative-caret-position="165">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
                 <marker date="1537339917932" expanded="true" signature="515:520" ph="..." />
@@ -273,6 +251,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -294,7 +273,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -356,10 +334,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1278" height="845" extended-state="6" />
-    <editor active="true" />
+    <frame x="67" y="25" width="1849" height="866" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1765357" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -381,7 +358,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.33333334" />
+      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.22800222" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -481,6 +458,12 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CookieApp/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CookieAndSession/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/CookieAndSession/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
@@ -488,16 +471,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CookieApp/tests.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CookieAndSession/wsgi.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/CookieApp/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+        <state relative-caret-position="165">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
             <marker date="1537339917932" expanded="true" signature="515:520" ph="..." />

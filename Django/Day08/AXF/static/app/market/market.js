@@ -63,8 +63,7 @@ $(function () {
 
         let goodid = $(this).attr('goodid');
         let num = parseInt($(this).prev().find('.num').html());
-        $.post('/axf/cartadd/', {'goodid': goodid,'num': num},function(data){
-            console.log(data)
+        $.post('/axf/cartaddto/', {'goodid': goodid,'num': num},function(data){
             if (data.status == 1 ){
                 alert('添加成功')
             }
@@ -82,7 +81,15 @@ $(function () {
         // let num = $('.num').eq(index);
         // num.html(parseInt(num.html()) + 1)
         let num = $(this).prev();
-        num.html(parseInt(num.html()) + 1)
+        let goodid = $(this).parent().next().attr('goodid')
+
+        // num.html(parseInt(num.html()) + 1)
+        $.post('/axf/cartadd/', {'num':num.html(), 'goodid': goodid}, function (data) {
+            if(data.status == 2){
+                num.html(parseInt(num.html()) + 1)
+                // 如果还有库存
+            }
+        } )
     })
 
     $('.reduce').click(function () {

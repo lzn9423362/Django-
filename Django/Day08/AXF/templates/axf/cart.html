@@ -5,6 +5,10 @@
     <link rel="stylesheet" href="{% static 'app/cart/cart.css' %}">
 {% endblock %}
 
+{% block linkscript %}
+    <script src="{% static 'app/cart/cart.js' %}"></script>
+{% endblock %}
+
 {% block header %}
 <div style="margin: auto">购物车</div>
 {% endblock %}
@@ -35,6 +39,35 @@
 
                 <menu>
                     <ul>
+
+                            {% for item in cart %}
+                                <li class="menuList" id="{{ item.id }}">
+                                    <div class="confirm">
+                                        <span class="select">
+                                            {% if item.isChose %}
+                                                <span>√</span>
+                                                {% else %}
+                                                <span></span>
+                                            {% endif %}
+                                        </span>
+                                    </div>
+
+                                    <a href="#">
+                                        <img src="{{ item.productimg }}" alt="">
+                                        <p>{{ item.productname }}</p>
+                                        <p>¥<span class="price">{{ item.productprice }}</span></p>
+                                    </a>
+
+                                    <section>
+                                        <button class="reduce">-</button>
+                                        <span class="num">{{ item.productnum }}</span>
+                                    <button class="add">+</button>
+                                    </section>
+                                    <button class="delbtn">删除</button>
+
+                                </li>
+                            {% endfor %}
+
 
 
                     </ul>
