@@ -2,59 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f50227f3-5b84-4ee6-a71b-69b1410322df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Day01/Day01Django/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day01/Day01Django/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day01/Day01Django/App/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day01/Day01Django/App/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day01/Day01Django/showtime/templates/index1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day01/Day01Django/showtime/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day02/Day02Django/.idea/Day02Django.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day02/Day02Django/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day02/Day02Django/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day02/Day02Django/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day02/Day02Django/Student/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day02/Day02Django/Student/templates/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day02/Day02Django/Student/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day02/Day02Django/Student/templates/success.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/Day03Django/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/author/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/author/templates/author/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/author/templates/author/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/author/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/book/migrations/0002_auto_20180912_1545.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/book/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/book/templates/book/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/book/templates/book/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/book/templates/book/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/book/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/publisher/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/publisher/templates/publisher/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/publisher/templates/publisher/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day03/Day03Django/publisher/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/migrations/0003_person_birthday.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/migrations/0004_person_birthday2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App/migrations/0005_auto_20180913_1219.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/manytomany/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/manytomany/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/onetomany/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/onetomany/migrations/0002_auto_20180914_1249.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/onetomany/migrations/0003_auto_20180914_1256.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/onetomany/migrations/0004_auto_20180914_1300.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/onetomany/migrations/0005_auto_20180915_0105.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/onetomany/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/onetoone/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/onetoone/migrations/0002_auto_20180915_0129.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/onetoone/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/Djangoday06/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/Djangoday06/test1/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day06/Djangoday06/test1/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../other/a.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../other/shiyan" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/Day04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/onetomany/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/onetomany/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day02/Day02Django/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day02/Day02Django/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day02/Day02Django/Student/templates/success.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day02/Day02Django/Student/templates/success.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day02/Day02Django/Student/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day02/Day02Django/Student/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day03/Day03Django/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day03/Day03Django/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bootstarp page/Day03Django/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../bootstarp page/Day03Django/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day05/Day05Django/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day05/Day05Django/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day05/Day05Django/Day05Django/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day05/Day05Django/Day05Django/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day05/Day05Django/onetomany/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day05/Day05Django/onetomany/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day08/AXF/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day08/AXF/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day08/AXF/axf/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day08/AXF/axf/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day08/AXF/static/app/cart/cart.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day08/AXF/static/app/cart/cart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day08/AXF/static/app/order/order.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day08/AXF/static/app/order/order.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day08/AXF/static/app/register/register.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day08/AXF/static/app/register/register.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -146,11 +112,11 @@
     <session id="-1341266339">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.27" value="1" />
-          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -169,23 +135,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="5" />
+          <entry key="png" value="1" />
+          <entry key="py" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="5" />
+          <entry key="Image" value="1" />
+          <entry key="Python" value="6" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/App/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-45">
-              <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="9" selection-end-column="46" />
+            <state relative-caret-position="147">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -197,7 +165,11 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/App/views.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -205,10 +177,12 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day04jango/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-675" />
+            <state relative-caret-position="300">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            </state>
           </provider>
         </entry>
       </file>
@@ -230,7 +204,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/App/admin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
+            <state relative-caret-position="30">
               <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
@@ -298,7 +272,8 @@
             <path>
               <item name="model属性练习" type="b2602c69:ProjectViewProjectNode" />
               <item name="model属性练习" type="462c0819:PsiDirectoryNode" />
-              <item name="Day04jango" type="462c0819:PsiDirectoryNode" />
+              <item name="App" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -311,7 +286,7 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="database.console.LAST_STATE" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bootstarp page" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -397,10 +372,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1849" height="866" extended-state="6" />
-    <editor active="true" />
+    <frame x="67" y="25" width="1599" height="866" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.44604316" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31278098" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -469,11 +443,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/App/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day04jango/urls.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Day04jango/wsgi.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/419bfa6e-9e7e-445a-bac8-7f5fbf9c547c/console.sql">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/django_manage.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -482,38 +475,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/App/tests.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/2018-08-31_18-04-08_的屏幕截图.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day04jango/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/App/views.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/App/apps.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/App/admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/App/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-45">
-          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="9" selection-end-column="46" />
+        <state relative-caret-position="147">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day04jango/urls.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day04jango/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-675" />
       </provider>
     </entry>
   </component>

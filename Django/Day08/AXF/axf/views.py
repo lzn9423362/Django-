@@ -133,6 +133,7 @@ def register(request):
         passwd = request.POST.get('userPasswd')
         email = request.POST.get('userAdderss')
         f = request.FILES['userImg']
+        print(f)
         file_name = generate_icon() + os.path.splitext(f.name)[-1]
         filePath = os.path.join(settings.MDEIA_ROOT, file_name)
         with open(filePath, 'wb') as fp:
@@ -313,15 +314,18 @@ def orderadd(request):
         try:
             user = User.objects.get(userToken=token)
             carts = Cart.objects.filter(userAccount=user.userAccount, isChose=True) #状态为已经选择的商品查询出来,并加到订单当中
-            oid = generate_icon()
-            num = request.POST.get('num')
-            o = Order.objects.create(orderid=oid, userid=user.userAccount, progress=0, money=num)
-            for cart in carts:
-                cart.isDelete = True #将已经加到订单里的购物车内商品状态逻辑删除(即数据还保存在数据库中)
-                cart.orderid = oid    #订单号存入逻辑删除的购物车商品中,到时候可以定义model的manager来查询
-                cart.save()
-            orderid = o.id
-            return JsonResponse({'status': 1, 'orderid': orderid})
+            if not carts.exists():
+                return JsonResponse({'status': -1})
+            else:
+                oid = generate_icon()
+                num = request.POST.get('num')
+                o = Order.objects.create(orderid=oid, userid=user.userAccount, progress=0, money=num) #保存订单信息存金额,用户,订单号,和用户
+                for cart in carts:
+                    cart.isDelete = True #将已经加到订单里的购物车内商品状态逻辑删除(即数据还保存在数据库中)
+                    cart.orderid = oid    #订单号存入逻辑删除的购物车商品中,到时候可以定义model的manager来查询
+                    cart.save()
+                orderid = o.id
+                return JsonResponse({'status': 1, 'orderid': orderid})
         except:
             return JsonResponse({'status': 'error2'})
     return JsonResponse({'status': 'error'})
@@ -356,10 +360,13 @@ def pay(request):
 def orderunpay(request):
     token = request.COOKIES.get('token', '')
     user = User.objects.filter(userToken=token)
-    sum = 0
-    orders = Order.objects.filter(userid=user.first().userAccount, progress=0)#查询支付process为0 即未支付的订单
-    carts = Cart.objects1.all()#查询所有的购物车, 在前端进行判断
-    return render(request, 'axf/orderunpay.html', {'orders': orders, 'carts': carts})
+    if user.exists():
+        sum = 0
+        orders = Order.objects.filter(userid=user.first().userAccount, progress=0)#查询支付process为0 即未支付的订单
+        carts = Cart.objects1.all()#查询所有的购物车, 在前端进行判断
+        return render(request, 'axf/orderunpay.html', {'orders': orders, 'carts': carts})
+    else:
+        return redirect(reverse('AXF:login'))
 
 # 将未支付订单状态process改为1,并在前端将支付节点删除
 def ordernopayhandle(request):
@@ -373,22 +380,24 @@ def ordernopayhandle(request):
 
 
 def orderunreceive(request):
-    orders = Order.objects.filter(progress=1)
-    carts = Cart.objects1.all()
-    data = {
-        'orders': orders,
-        'carts': carts,
-    }
-    return render(request, 'axf/orderunreceive.html', data)
-
+    token = request.COOKIES.get('token', '')
+    user = User.objects.filter(userToken=token)
+    if user.exists():
+        orders = Order.objects.filter(progress=1,userid=user.first().userAccount)
+        carts = Cart.objects1.all()
+        data = {
+            'orders': orders,
+            'carts': carts,
+        }
+        return render(request, 'axf/orderunreceive.html', data)
+    else:
+        return redirect(reverse('AXF:login'))
 
 def orderconfirm(request):
     if request.method == 'POST':
         try:
             orderid = request.POST.get('orderid')
-            print(orderid)
             order = Order.objects.get(id=orderid)
-            print(12)
             order.progress = 2
             order.save()
             return JsonResponse({'status': 1})

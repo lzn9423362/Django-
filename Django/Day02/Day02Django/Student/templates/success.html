@@ -81,16 +81,14 @@
 
 <p>{{ code2|safe }}</p>
 
-<p>{{ code3 }}</p>
+<p>{{ code3|safe }}</p>
 
 {#<p>{{ code3|safe }}</p>#}
 
 
-{% autoescape on %}
-    <p>{{ code3 }}</p>
+{% autoescape off %}
+    {{ code3 }}
 {% endautoescape %}
-
-
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </body>

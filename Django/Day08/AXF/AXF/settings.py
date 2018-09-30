@@ -132,5 +132,8 @@ STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'static')
 ]
 
+
+
+
 MDEIA_ROOT = os.path.join(BASE_DIR, r'static/uploads')
 

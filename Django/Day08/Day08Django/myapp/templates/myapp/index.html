@@ -16,37 +16,37 @@
 
     </ul>
 
-
-<nav aria-label="Page navigation">
-  <ul class="pagination">
-    <li>
-        {% if page.has_previous %}
-              <a href="{% url 'Myapp:index' page.previous_page_number %}" aria-label="Previous">
-
-         {% else %}
-                  <a href="" aria-label="Previous">
-
-        {% endif %}
-        <span aria-hidden="true">&laquo;</span>
-      </a>
-    </li>
-         {% for foo in page_range %}
-             {% if page.number == foo %}
-                 <li class="active"><a href="{% url 'Myapp:index' foo %}">{{ foo }}</a></li>
-                 {% else %}
-                                 <li><a href="{% url 'Myapp:index' foo %}">{{ foo }}</a></li>
-
-             {% endif %}
-        {% endfor %}
-    <li>
-        {% if page.has_next %}
-        <a href="{% url 'Myapp:index' page.next_page_number %}" aria-label="Next">
-        {% endif %}
-
-        <span aria-hidden="true">&raquo;</span>
-      </a>
-    </li>
-  </ul>
-</nav>
+{##}
+{#<nav aria-label="Page navigation">#}
+{#  <ul class="pagination">#}
+{#    <li>#}
+{#        {% if page.has_previous %}#}
+{#              <a href="{% url 'Myapp:index' page.previous_page_number %}" aria-label="Previous">#}
+{##}
+{#         {% else %}#}
+{#                  <a href="" aria-label="Previous">#}
+{##}
+{#        {% endif %}#}
+{#        <span aria-hidden="true">&laquo;</span>#}
+{#      </a>#}
+{#    </li>#}
+{#         {% for foo in page_range %}#}
+{#             {% if page.number == foo %}#}
+{#                 <li class="active"><a href="{% url 'Myapp:index' foo %}">{{ foo }}</a></li>#}
+{#                 {% else %}#}
+{#                                 <li><a href="{% url 'Myapp:index' foo %}">{{ foo }}</a></li>#}
+{##}
+{#             {% endif %}#}
+{#        {% endfor %}#}
+{#    <li>#}
+{#        {% if page.has_next %}#}
+{#        <a href="{% url 'Myapp:index' page.next_page_number %}" aria-label="Next">#}
+{#        {% endif %}#}
+{##}
+{#        <span aria-hidden="true">&raquo;</span>#}
+{#      </a>#}
+{#    </li>#}
+{#  </ul>#}
+{#</nav>#}
 </body>
 </html>

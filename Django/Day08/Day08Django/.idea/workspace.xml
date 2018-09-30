@@ -2,26 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a62b954-91c6-43bf-ab65-e885c17701f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../AXF/axf/forms/login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AXF/static/app/login/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AXF/static/app/login/login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AXF/templates/axf/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day04/.idea/Day04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day04/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day04/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day04/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/onetomany/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/onetomany/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Day02/Day02Django/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day02/Day02Django/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day02/Day02Django/Student/templates/success.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day02/Day02Django/Student/templates/success.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day02/Day02Django/Student/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day02/Day02Django/Student/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day03/Day03Django/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day03/Day03Django/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day04/bootstarp page/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day04/bootstarp page/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day04/bootstarp page/Day03Django/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day04/bootstarp page/Day03Django/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day04/model属性练习/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day04/model属性练习/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day05/Day05Django/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day05/Day05Django/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day05/Day05Django/Day05Django/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day05/Day05Django/Day05Django/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day05/Day05Django/onetomany/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day05/Day05Django/onetomany/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Day06/CookieAndSession/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Day06/视图进阶/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day06/视图进阶/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Day07/高级进阶/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day07/高级进阶/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AXF/.idea/dataSources/8e14f22b-48d1-4651-a7fb-e136add4517c.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AXF/.idea/dataSources/8e14f22b-48d1-4651-a7fb-e136add4517c.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AXF/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AXF/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AXF/AXF/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AXF/AXF/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AXF/axf/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AXF/axf/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AXF/AXF/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AXF/AXF/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AXF/AXF/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AXF/AXF/wsgi.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AXF/axf/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AXF/axf/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AXF/static/app/market/market.js" beforeDir="false" afterPath="$PROJECT_DIR$/../AXF/static/app/market/market.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AXF/static/app/cart/cart.js" beforeDir="false" afterPath="$PROJECT_DIR$/../AXF/static/app/cart/cart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AXF/static/app/order/order.css" beforeDir="false" afterPath="$PROJECT_DIR$/../AXF/static/app/order/order.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AXF/static/app/register/register.js" beforeDir="false" afterPath="$PROJECT_DIR$/../AXF/static/app/register/register.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AXF/templates/axf/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AXF/templates/axf/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AXF/templates/axf/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AXF/templates/axf/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AXF/templates/axf/market.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AXF/templates/axf/market.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AXF/templates/axf/mine.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AXF/templates/axf/mine.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day09/AXF/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day09/AXF/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AXF/templates/axf/order.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AXF/templates/axf/order.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AXF/templates/axf/orderunpay.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AXF/templates/axf/orderunpay.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AXF/templates/axf/orderunreceive.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AXF/templates/axf/orderunreceive.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AXF/templates/axf/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AXF/templates/axf/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/templates/myapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/templates/myapp/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,28 +85,28 @@
     <session id="-1865925851">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.20" value="1" />
-          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.4" value="2" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="cell" value="146" />
-          <entry key="html" value="441" />
+          <entry key="html" value="442" />
           <entry key="py" value="3273" />
-          <entry key="py@Day08Django" value="118" />
+          <entry key="py@Day08Django" value="126" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CommandLine" value="118" />
-          <entry key="HTML" value="441" />
+          <entry key="CommandLine" value="126" />
+          <entry key="HTML" value="442" />
           <entry key="Python" value="3273" />
           <entry key="Scratch" value="146" />
         </counts>
@@ -100,17 +115,17 @@
         <counts>
           <entry key="cacheapp_user" value="1" />
           <entry key="django_session" value="2" />
-          <entry key="html" value="17" />
+          <entry key="html" value="18" />
           <entry key="myapp_user" value="2" />
           <entry key="mycachetable" value="2" />
-          <entry key="py" value="51" />
+          <entry key="py" value="53" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Database Element" value="7" />
-          <entry key="HTML" value="17" />
-          <entry key="Python" value="51" />
+          <entry key="HTML" value="18" />
+          <entry key="Python" value="53" />
         </counts>
       </usages-collector>
     </session>
@@ -120,8 +135,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myapp/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="45" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
+            <state relative-caret-position="60">
+              <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
               <folding>
                 <element signature="e#0#43#0" expanded="true" />
               </folding>
@@ -129,11 +144,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Middleapp/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="445">
-              <caret line="76" column="8" lean-forward="true" selection-start-line="76" selection-start-column="8" selection-end-line="76" selection-end-column="8" />
+            <state relative-caret-position="43">
+              <caret line="52" column="19" lean-forward="true" selection-start-line="52" selection-start-column="19" selection-end-line="52" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -141,15 +156,19 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Middleapp/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="11" selection-end-line="11" />
+            <state relative-caret-position="60">
+              <caret line="6" column="54" lean-forward="true" selection-start-line="6" selection-end-line="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Middleapp/tests.py">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/myapp/templates/myapp/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="16" selection-end-column="9" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -190,8 +209,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Middleapp/templates/middleapp/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+            <state relative-caret-position="135">
+              <caret line="9" selection-start-line="9" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -199,8 +218,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myapp/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -233,7 +252,6 @@
         <option value="$PROJECT_DIR$/myapp/templates/myapp/urls.html" />
         <option value="$PROJECT_DIR$/myapp/urls.py" />
         <option value="$PROJECT_DIR$/myapp/models.py" />
-        <option value="$PROJECT_DIR$/myapp/templates/myapp/index.html" />
         <option value="$PROJECT_DIR$/Middleapp/templates/middleapp/verify.html" />
         <option value="$PROJECT_DIR$/Middleapp/urls.py" />
         <option value="$PROJECT_DIR$/Middleapp/templates/middleapp/index1.html" />
@@ -249,6 +267,7 @@
         <option value="$PROJECT_DIR$/middleware/hello.py" />
         <option value="$PROJECT_DIR$/Middleapp/views.py" />
         <option value="$PROJECT_DIR$/myapp/views.py" />
+        <option value="$PROJECT_DIR$/myapp/templates/myapp/index.html" />
       </list>
     </option>
   </component>
@@ -270,6 +289,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -287,18 +307,48 @@
               <item name="Day08Django" type="462c0819:PsiDirectoryNode" />
               <item name="Middleapp" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Day08Django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Day08Django" type="462c0819:PsiDirectoryNode" />
+              <item name="Middleapp" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Day08Django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Day08Django" type="462c0819:PsiDirectoryNode" />
+              <item name="Middleapp" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="middleapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Day08Django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Day08Django" type="462c0819:PsiDirectoryNode" />
+              <item name="myapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Day08Django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Day08Django" type="462c0819:PsiDirectoryNode" />
+              <item name="myapp" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Day08Django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Day08Django" type="462c0819:PsiDirectoryNode" />
+              <item name="myapp" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="myapp" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="database.console.LAST_STATE" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Day07/高级进阶" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Day06/Day06Django" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -417,10 +467,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1458" height="845" extended-state="6" />
+    <frame x="67" y="25" width="1582" height="866" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.81666666" visible="true" weight="0.13700566" />
-      <window_info id="Structure" order="1" sideWeight="0.18333334" side_tool="true" visible="true" weight="0.13700566" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8147268" visible="true" weight="0.11363637" />
+      <window_info id="Structure" order="1" sideWeight="0.18527316" side_tool="true" visible="true" weight="0.11363637" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3680352" />
@@ -441,7 +491,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.3128531" />
+      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.1448052" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -535,13 +585,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/templates/myapp/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day08Django/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="640">
@@ -587,13 +630,6 @@
     <entry file="file://$PROJECT_DIR$/myapp/migrations/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Middleapp/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Middleapp/tests.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -607,13 +643,10 @@
     <entry file="file://$PROJECT_DIR$/myapp/apps.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/myapp/urls.py">
+    <entry file="file://$PROJECT_DIR$/Middleapp/templates/middleapp/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="17" />
         </state>
       </provider>
     </entry>
@@ -624,34 +657,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Middleapp/templates/middleapp/login.html">
+    <entry file="file://$PROJECT_DIR$/Middleapp/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+        <state relative-caret-position="60">
+          <caret line="6" column="54" lean-forward="true" selection-start-line="6" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Middleapp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="52" column="19" lean-forward="true" selection-start-line="52" selection-start-column="19" selection-end-line="52" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myapp/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myapp/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="45" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
+        <state relative-caret-position="60">
+          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
           <folding>
             <element signature="e#0#43#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Middleapp/views.py">
+    <entry file="file://$PROJECT_DIR$/myapp/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="76" column="8" lean-forward="true" selection-start-line="76" selection-start-column="8" selection-end-line="76" selection-end-column="8" />
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/templates/myapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="16" selection-end-column="9" />
         </state>
       </provider>
     </entry>

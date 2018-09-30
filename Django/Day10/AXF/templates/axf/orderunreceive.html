@@ -1,0 +1,51 @@
+{% extends 'axf/base.html' %}
+{% load static %}
+
+{% block extcss %}
+    <link rel="stylesheet" href="{% static 'app/orderunreceive/orderunreceive.css' %}">
+{% endblock %}
+
+{% block linkscript %}
+    <script src="{% static 'app/orderunreceive/orderunreceive.js' %}"></script>
+{% endblock %}
+
+{% block Title %}
+     未收货
+{% endblock %}
+
+
+
+{% block base %}
+
+    <div class="heade">待收货订单</div>
+  <div class="container">
+    <ul class="orders">
+        <a href="{% url 'AXF:mine' %}">返回</a>
+        {% for order in orders %}
+            <li>
+                <p>订单号: {{ order.orderid }}</p>
+                <p>订单金额: {{ order.money}}</p>
+                <p>订单商品
+                    <ul class="order-goods">
+                    {% for cart in carts %}
+
+                        {% if cart.orderid == order.orderid %}
+                            <li>
+                            <img src="{{ cart.productimg }}" alt="">
+                                </li>
+                        {% endif %}
+                    {% endfor %}
+                    
+            </ul>
+                </p>
+                <button  class="btn btn-success pay" orderid="{{ order.id }} ">确认收货</button>
+            </li>
+        {% endfor %}
+
+    </ul>
+
+
+
+    </div>
+{% endblock base %}
+

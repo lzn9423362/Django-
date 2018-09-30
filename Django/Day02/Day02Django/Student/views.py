@@ -9,7 +9,7 @@ def index(request):
 
 def detail(request, stuid):
     stu = Student.objects.get(id=stuid) #获取student表中的id为1的对象
-    return  render(request, 'detail.html', {'stu':stu})
+    return render(request, 'detail.html', {'stu':stu})
 
 def detail2(request, id1, id2):
     print(id1,id2)
@@ -57,7 +57,7 @@ def success(request):
         'citys':citys,
         'now':datetime.datetime.now(),
         'code2':code2,
-        'code3':code3,
+        'code3': code3,
     }
 
     return render(request, 'success.html', data)

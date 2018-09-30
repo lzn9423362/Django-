@@ -1,0 +1,45 @@
+{% extends 'axf/base.html' %}
+{% load static %}
+
+{% block extcss %}
+    <link rel="stylesheet" href="{% static 'app/login/login.css' %}">
+{% endblock %}
+
+{% block linkscript %}
+    <link rel="stylesheet" href="{% static 'app/login/login.js' %}">
+{% endblock %}
+
+{% block Title %}
+ 购物车
+{% endblock %}
+
+{% block base %}
+    <div id="login">
+        <a href="{% url 'AXF:mine' %}"> <p>返回</p> </a>
+    <div id="box">
+        <form action="{% url 'AXF:login' %}" method="post">
+        {% csrf_token %}
+            <div class="input-group">
+            用户名:{{ form.username }}
+                <br>
+                {% if error.username.0 %}
+                    <span>{{ error.username.0  }}</span>
+                {% endif %}
+            </div>
+            <div class="input-group">
+
+             密码:{{ form.passwd }}
+                <br>
+                {% if error.passwd.0 %}
+                    <span>{{ error.passwd.0  }}</span>
+                {% endif %}
+            </div>
+
+        <div class="input-group">
+            <input type="submit" value="登录">
+        </div>
+        </form>
+
+    </div>
+    </div>
+{% endblock base %}

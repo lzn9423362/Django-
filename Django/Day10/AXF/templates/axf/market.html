@@ -1,0 +1,142 @@
+{% extends 'axf/base.html' %}
+{% load static %}
+
+{% block linkscript %}
+    <script src="{% static 'app/market/market.js' %}"></script>
+{% endblock %}
+
+{% block extcss %}
+    <link rel="stylesheet" href="{% static 'app/market/market.css' %}">
+{% endblock %}
+
+
+
+{% block header %}
+    <div style="margin: auto">闪购
+
+    </div>
+{% endblock %}
+
+
+{% block Title %}
+ 闪购
+{% endblock %}
+
+{% block base %}
+
+<div id="market">
+{#左边商品类型#}
+<aside>
+
+        <ul>
+            {% for foo in leftSlider %}
+
+
+              <li>
+                  <a href="{% url 'AXF:market' foo.typeid 0 0%}">{{ foo.typename }}</a>
+
+                  {% if categoryid == foo.typeid %}
+
+              <div class="yellowSlide"></div>
+                  {% endif %}
+              </li>
+
+            {% endfor %}
+
+
+        </ul>
+
+</aside>
+
+
+{#类型#}
+<section>
+     <nav>
+                <ul>
+                    <li id="all_type">
+                        <span>
+                            全部类型
+                            <span id="all_type_icon" class="glyphicon glyphicon-chevron-down"></span>
+                        </span>
+                    </li>
+                    <li id="sort_rule">
+                        <span>
+                            综合排序
+                            <span id="sort_rule_icon" class="glyphicon glyphicon-chevron-down"></span>
+                        </span>
+                    </li>
+                </ul>
+            </nav>
+
+
+
+    <menu>
+        <ul>
+            {% for item in productList %}
+                <li>
+                    <a href="#">
+                        <img src="{{ item.productimg }}" alt="">
+                            <div class="shoppingInfo">
+                                <h6>{{item.productlongname }}</h6>
+                                <div class="detailTag">
+                                    <span>精选</span>
+
+                                </div>
+                                <div class="unit">{{ item.specifics }}</div>
+                                <div class="price">
+                                    <span>¥{{ item.price }}</span>
+                                <s>¥{{ item.marketprice|floatformat  }}</s>
+                                </div>
+                            </div>
+                    </a>
+                <section>
+                    <button  class="reduce">-</button>
+                    <span class="num">0</span>
+                    <button  class="add">+</button>
+                </section>
+                    <button goodid="{{ item.id }}" class="addtocart">加入购物车</button>
+
+                </li>
+            {% endfor %}
+
+        </ul>
+
+{#         全部类型#}
+                <div id="typeid">
+                    <div>
+                          {% for child in childList %}
+                              <a href="{% url 'AXF:market' categoryid child.childId 0 %}"><span>{{ child.childName }}</span>  </a>
+                          {% endfor %}
+                    </div>
+                </div>
+
+
+
+                    <div id="sortdiv">
+                        <div>
+                       <a href="{% url 'AXF:market' categoryid cid 0 %}" class="sorta">
+                            <span>综合排序</span>
+                        </a>
+                        <a href="{% url 'AXF:market' categoryid cid 1 %}" class="sorta">
+                            <span>销量排序</span>
+                        </a>
+                        <a href="{% url 'AXF:market' categoryid cid 2 %}" class="sorta">
+                            <span>价格降序</span>
+                        </a>
+                        <a href="{% url 'AXF:market' categoryid cid 3 %}" class="sorta">
+                            <span>价格升序</span>
+                        </a>
+                        </div>
+                    </div>
+
+    </menu>
+
+
+
+
+</section>
+
+
+</div>
+
+{% endblock base %}
