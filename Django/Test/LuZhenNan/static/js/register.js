@@ -6,9 +6,19 @@ $(function(){
     $('#phone').change(function () {
         let value = $(this).val();
         if(/^1(([3578]\d)|(47))\d{8}$/.test(value)){
+                $.post('/app/loginajax/', {'value':value}, function (data) {
+                    console.log(data.status)
+                    if (data.status == 0){
+                         $('#phone-tip').html('');
+                     flag1 = true
+                    }
+                    else{
+                        $('#phone-tip').html('用户已存在').css('color', 'green');
+            flag1 = false
+                    }
+                })
 
-                    $('#phone-tip').html('');
-                     flag1 = true}
+        }
 
         else{
             $('#phone-tip').html('请输入正确的手机号').css('color', 'red');

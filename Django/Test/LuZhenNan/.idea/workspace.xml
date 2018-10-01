@@ -2,44 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e261d2a1-57aa-451e-ada3-9fa8eb4c50a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Day04/.idea/Day04.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day04/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day04/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day04/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/onetomany/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Day05/Day05Django/onetomany/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day02/Day02Django/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day02/Day02Django/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day02/Day02Django/Student/templates/success.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day02/Day02Django/Student/templates/success.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day02/Day02Django/Student/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day02/Day02Django/Student/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day03/Day03Django/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day03/Day03Django/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day04/bootstarp page/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day04/bootstarp page/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day04/bootstarp page/Day03Django/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day04/bootstarp page/Day03Django/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day04/model属性练习/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day04/model属性练习/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day05/Day05Django/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day05/Day05Django/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day05/Day05Django/Day05Django/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day05/Day05Django/Day05Django/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day05/Day05Django/onetomany/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day05/Day05Django/onetomany/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day06/CookieAndSession/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day06/CookieAndSession/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day06/Day06Django/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day06/Day06Django/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day06/视图进阶/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day06/视图进阶/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day07/Day07django/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day07/Day07django/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day07/高级进阶/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day07/高级进阶/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day08/AXF/.idea/dataSources/8e14f22b-48d1-4651-a7fb-e136add4517c.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day08/AXF/.idea/dataSources/8e14f22b-48d1-4651-a7fb-e136add4517c.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Day08/AXF/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day08/AXF/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day08/AXF/AXF/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day08/AXF/AXF/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day08/AXF/AXF/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day08/AXF/AXF/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day08/AXF/AXF/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day08/AXF/AXF/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day08/AXF/axf/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day08/AXF/axf/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day08/AXF/static/app/cart/cart.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day08/AXF/static/app/cart/cart.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day08/AXF/static/app/order/order.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day08/AXF/static/app/order/order.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day08/AXF/static/app/register/register.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day08/AXF/static/app/register/register.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day08/AXF/templates/axf/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day08/AXF/templates/axf/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day08/AXF/templates/axf/market.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day08/AXF/templates/axf/market.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day08/AXF/templates/axf/order.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day08/AXF/templates/axf/order.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day08/AXF/templates/axf/orderunpay.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day08/AXF/templates/axf/orderunpay.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day08/AXF/templates/axf/orderunreceive.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day08/AXF/templates/axf/orderunreceive.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day08/AXF/templates/axf/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day08/AXF/templates/axf/register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day08/Day08Django/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day08/Day08Django/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Day08/Day08Django/myapp/templates/myapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Day08/Day08Django/myapp/templates/myapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APP/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/APP/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APP/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/APP/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/register.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/register.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -95,8 +62,8 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="771" />
-          <entry key="js" value="1183" />
-          <entry key="py" value="1697" />
+          <entry key="js" value="1300" />
+          <entry key="py" value="1888" />
           <entry key="py@LuZhenNan" value="61" />
           <entry key="sql" value="158" />
         </counts>
@@ -105,8 +72,8 @@
         <counts>
           <entry key="CommandLine" value="61" />
           <entry key="HTML" value="771" />
-          <entry key="JavaScript" value="1183" />
-          <entry key="Python" value="1697" />
+          <entry key="JavaScript" value="1300" />
+          <entry key="Python" value="1888" />
           <entry key="Scratch" value="158" />
         </counts>
       </usages-collector>
@@ -119,9 +86,9 @@
           <entry key="auth_user" value="1" />
           <entry key="html" value="8" />
           <entry key="jpg" value="13" />
-          <entry key="js" value="10" />
+          <entry key="js" value="11" />
           <entry key="png" value="3" />
-          <entry key="py" value="15" />
+          <entry key="py" value="16" />
           <entry key="sql" value="2" />
         </counts>
       </usages-collector>
@@ -130,8 +97,8 @@
           <entry key="Database Element" value="14" />
           <entry key="HTML" value="8" />
           <entry key="Image" value="16" />
-          <entry key="JavaScript" value="10" />
-          <entry key="Python" value="15" />
+          <entry key="JavaScript" value="11" />
+          <entry key="Python" value="16" />
           <entry key="Scratch" value="2" />
         </counts>
       </usages-collector>
@@ -142,30 +109,34 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/APP/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="208">
+              <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
-                <marker date="1538314488253" expanded="true" signature="1841:1843" ph="..." />
+                <marker date="1538363855413" expanded="true" signature="1863:2066" ph="..." />
+                <marker date="1538363855413" expanded="true" signature="2064:2066" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LuZhenNan/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="das://362be3b2-2fc5-4449-82cd-397344ad6172/schema/main/table/app_user">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="das://362be3b2-2fc5-4449-82cd-397344ad6172/schema/main/table/app_user">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
+        <entry file="file://$PROJECT_DIR$/APP/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -180,19 +151,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/register.html">
+        <entry file="file://$PROJECT_DIR$/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="907">
-              <caret line="77" column="35" selection-start-line="77" selection-start-column="35" selection-end-line="77" selection-end-column="35" />
+            <state relative-caret-position="330">
+              <caret line="581" column="26" selection-start-line="581" selection-start-column="26" selection-end-line="581" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/index.html">
+        <entry file="file://$PROJECT_DIR$/static/js/register.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="581" column="26" selection-start-line="581" selection-start-column="26" selection-end-line="581" selection-end-column="26" />
+            <state relative-caret-position="135">
+              <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -207,7 +178,7 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="das://362be3b2-2fc5-4449-82cd-397344ad6172/schema/main/table/app_man">
           <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
             <state>
@@ -244,13 +215,13 @@
         <option value="$PROJECT_DIR$/templates/login.html" />
         <option value="$PROJECT_DIR$/static/js/login.js" />
         <option value="$PROJECT_DIR$/templates/register.html" />
-        <option value="$PROJECT_DIR$/static/js/register.js" />
         <option value="$PROJECT_DIR$/APP/models.py" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/362be3b2-2fc5-4449-82cd-397344ad6172/console.sql" />
-        <option value="$PROJECT_DIR$/APP/urls.py" />
         <option value="$PROJECT_DIR$/LuZhenNan/settings.py" />
-        <option value="$PROJECT_DIR$/APP/views.py" />
         <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/APP/urls.py" />
+        <option value="$PROJECT_DIR$/APP/views.py" />
+        <option value="$PROJECT_DIR$/static/js/register.js" />
       </list>
     </option>
   </component>
@@ -293,6 +264,12 @@
               <item name="LuZhenNan" type="b2602c69:ProjectViewProjectNode" />
               <item name="LuZhenNan" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LuZhenNan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LuZhenNan" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LuZhenNan" type="b2602c69:ProjectViewProjectNode" />
@@ -373,7 +350,7 @@
     <frame x="67" y="25" width="1588" height="866" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3305304" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2755498" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -503,23 +480,6 @@
     <entry file="file://$PROJECT_DIR$/static/images2/1.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/register.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="31" column="34" lean-forward="true" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/APP/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/APP/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -565,24 +525,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/APP/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-            <marker date="1538314488253" expanded="true" signature="1841:1843" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://362be3b2-2fc5-4449-82cd-397344ad6172/schema/main/table/app_user">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
     <entry file="das://362be3b2-2fc5-4449-82cd-397344ad6172/schema/main/table/auth_group">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
@@ -598,6 +540,42 @@
       </provider>
     </entry>
     <entry file="das://362be3b2-2fc5-4449-82cd-397344ad6172/schema/main/table/app_man">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1538363855413" expanded="true" signature="1863:2066" ph="..." />
+            <marker date="1538363855413" expanded="true" signature="2064:2066" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/register.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://362be3b2-2fc5-4449-82cd-397344ad6172/schema/main/table/app_user">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />

@@ -8,4 +8,5 @@ urlpatterns = [
     url(r'^login/', login, name='login'),
     url(r'^loginhandle/', loginhandle, name='loginhandle'),
     url(r'^logout/', logout, name='logout'),
+    url(r'^loginajax/', loginajax, name='loginajax'),
 ]

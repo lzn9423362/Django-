@@ -61,6 +61,13 @@ def logout(request):
     return redirect(reverse("APP:index"))
 
 
+def loginajax(request):
+    username = request.POST.get('value')
+    try:
+        user = User.objects.get(username=username)
+        return JsonResponse({'status': 0})
+    except:
+        return JsonResponse({'status': 1})
 
 
 
