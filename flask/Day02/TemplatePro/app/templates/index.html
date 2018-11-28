@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+
+
+
+{% block content %}
+{% include 'index_include.html' %}
+{{ input('username') }}
+
+    {% from 'common.html' import print_name %}
+    {{ print_name('彭性感',22) }}
+
+    {{ 'HELLO WORLD'| title }}
+{% endblock %}

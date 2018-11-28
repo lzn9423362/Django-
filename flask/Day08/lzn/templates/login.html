@@ -1,0 +1,27 @@
+{% extends 'base.html' %}
+
+{% block head %}
+    <link rel="stylesheet"  href="{{ url_for('static', filename='css/login.css') }}">
+{% endblock %}
+
+{% block title %}
+登录
+{% endblock %}
+
+{% block content %}
+            <h3 id="top_title">登录</h3>
+    <form action="/login/" method="post">
+<div class="input-group input-group-lg input1" >
+  <span class="input-group-addon" id="sizing-addon1">手机号</span>
+  <input type="text" class="form-control" name="telephone" placeholder="请输入手机号" aria-describedby="sizing-addon1">
+</div>
+    <div class="input-group input-group-lg input1">
+  <span class="input-group-addon" id="sizing-addon1">密码</span>
+  <input type="password" class="form-control" name="password" placeholder="请输入密码" aria-describedby="sizing-addon1">
+</div>
+     <div class="input-group input-group-lg input1">
+        <button type="submit" class="btn-primary btn input1 ">登录</button>
+     </div>
+    </form>
+
+{% endblock %}

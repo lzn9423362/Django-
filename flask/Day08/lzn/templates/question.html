@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+
+{% block title %}
+发布问答
+{% endblock %}
+
+{% block head %}
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/question.css') }}">
+{% endblock %}
+
+{% block content %}
+        <h3 id="top_title">发表问答</h3>
+    <form action="" method="post">
+    <div class="input-group input-group-lg input1">
+  <input type="text" class="form-control"  placeholder="发表问答" aria-describedby="sizing-addon1">
+</div>
+    <div class="input-group input-group-lg input1">
+        <textarea name="content" class="form-control" placeholder="请输入内容" style="height: 200px;"> </textarea>
+    </div>
+
+    <div class="input-group input-group-lg input1">
+        <button type="submit" id="login" class="btn-primary btn ">发表</button>
+     </div>
+    </form>
+{% endblock %}

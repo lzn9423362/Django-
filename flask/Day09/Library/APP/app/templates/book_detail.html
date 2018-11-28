@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<div>
+哈哈
+{% for publisher in book.publishers %}
+    {{ publisher.name }}
+{% endfor %}</div>
+
+
+{% for publisher in publishers %}
+    <a href="/publisherdetail/{{ publisher.id }}"> {{ publisher.name }}</a>
+{% endfor %}
+<a href="/authordetail/{{ author.id }}">  {{ author.name }}</a>
+    {{ author.age }}
+</body>
+</html>

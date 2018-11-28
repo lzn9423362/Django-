@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+        <script src="/static/js/jquery-1.12.3.js"></script>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/register.css') }}">
+    <script src="{{ url_for('static', filename='js/register.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/md5.js') }}"></script>
+</head>
+<body>
+<h2>哈哈，你被我控制了</h2>
+<form action="" method="post">
+   账号: <input type="text" id="user" name="username" placeholder="请输入账号"> <br>
+    <p id="user-tip"></p>
+    密码: <input type="password" id="password" name="password" placeholder="请输入密码"><br>
+        <p id="password-tip"></p>
+    密码: <input type="text" id="email" name="email" placeholder="邮箱"><br>
+            <p id="email-tip"></p>
+    <input type="submit" id="login" value="登录">
+</form>
+</body>
+</html>

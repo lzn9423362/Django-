@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="{{ url_for('static',filename='css/base.css') }}">
+    <script src="{{ url_for('static', filename='js/base.js') }}"></script>
+
+</head>
+<body>
+
+<h2>我是真的为你哭了</h2>
+{% macro input(name,value='哈哈',type='text',size=20) %}
+    <input type="{{ type }}" value="{{ value }}" name="{{ name }}">
+{% endmacro %}
+{% block content %}
+
+{% endblock %}
+
+</body>
+</html>

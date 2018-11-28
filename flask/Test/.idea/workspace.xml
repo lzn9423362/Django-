@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="69569031-f54e-41df-b8fd-375e31a5dca6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Django/Day12/.idea/Day12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/Day12/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/Day12/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/Day12/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/Day12/APP/.idea/APP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/Day12/APP/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/Day12/APP/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/Day12/APP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/Day12/APP/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01/APP1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01/APP1/App/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01/APP1/App/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01/APP1/App/static/css/response.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01/APP1/App/templates/response.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day01/APP1/App/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day02/ModelPro/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day02/ModelPro/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day02/ModelPro/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day02/ModelPro/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day02/ModelPro/App/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day02/ModelPro/App/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day02/ModelPro/App/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day02/TemplatePro/app/static/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day02/TemplatePro/app/static/js/base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day02/TemplatePro/app/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day02/TemplatePro/app/templates/common.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day02/TemplatePro/app/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day02/TemplatePro/app/templates/index_include.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day02/TemplatePro/app/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day02/cookie/.idea/cookie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day02/cookie/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day02/cookie/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day02/cookie/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day02/cookie/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day02/cookie/App/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day02/cookie/App/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day02/cookie/App/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day02/cookie/App/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day02/cookie/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day02/fisher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day03/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day03/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day03/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day03/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day04mysql/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day05script/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day05script/app/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day05script/app/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day05script/app/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day05script/app/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day05script/app/db_script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day05script/app/exts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day05script/app/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day05script/app/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day06Session/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day06Session/app/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day07search/app/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day07search/app/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day07search/app/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day07search/app/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day08/.idea/Day08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day08/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day08/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day08/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day08/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day08/lzn/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day08/lzn/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day08/lzn/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day08/lzn/exts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day08/lzn/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day08/lzn/md5password.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day08/lzn/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day08/lzn/static/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day08/lzn/static/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day08/lzn/static/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day08/lzn/static/css/question.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day08/lzn/static/css/regist.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day08/lzn/static/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day08/lzn/static/css/swiper.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day08/lzn/static/js/base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day08/lzn/static/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day08/lzn/static/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day08/lzn/static/js/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day08/lzn/static/js/md5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day08/lzn/static/js/regist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day08/lzn/static/js/swiper.jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day08/lzn/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day08/lzn/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day08/lzn/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day08/lzn/templates/question.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day08/lzn/templates/regist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TD01/app/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lzn/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lzn/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lzn/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lzn/APP/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lzn/APP/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lzn/APP/exts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lzn/APP/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lzn/APP/static/css/register.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lzn/APP/static/js/jquery-1.12.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lzn/APP/static/js/md5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lzn/APP/static/js/register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lzn/APP/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lzn/APP/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lzn/APP/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lzn/APP/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scrapy/D_01/.idea/D_01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scrapy/D_01/t01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scrapy/D_01/t01/01_try_requests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scrapy/D_01/t01/02_try_request_post.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scrapy/D_01/t01/03_try_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scrapy/D_01/t01/04_try_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scrapy/D_01/t01/05_try_login2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scrapy/D_01/t01/06_try_json.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scrapy/D_01/t01/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scrapy/D_01/t01/parse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scrapy/D_01/t01/renren.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scrapy/D_01/t01/无序列表找中位数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scrapy/untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scrapy/untitled/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Django/Day05/Day05Django/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Django/Day05/Day05Django/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Django/Day07/高级进阶/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Django/Day07/高级进阶/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Django/Day08/AXF/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Django/Day08/AXF/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Django/Day08/Day08Django/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Django/Day08/Day08Django/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Django/Day08/Day08Django/myapp/templates/myapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Django/Day08/Day08Django/myapp/templates/myapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Django/Day11/Test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Django/Day11/Test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Django/Test/LuZhenNan/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Django/Test/LuZhenNan/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Django/Test/LuZhenNan/APP/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Django/Test/LuZhenNan/APP/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Django/Test/LuZhenNan/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../../Django/Test/LuZhenNan/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Django/Test/LuZhenNan/static/js/register.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Django/Test/LuZhenNan/static/js/register.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Django/Test/LuZhenNan/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Django/Test/LuZhenNan/templates/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test.sh" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="741276230">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lzn/APP/exts.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lzn/APP/models.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="27" />
+    <option name="width" value="752" />
+    <option name="height" value="721" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+              <item name="LZN" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+              <item name="Lzn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+              <item name="Lzn" type="462c0819:PsiDirectoryNode" />
+              <item name="APP" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lzn" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69569031-f54e-41df-b8fd-375e31a5dca6" name="Default Changelist" comment="" />
+      <created>1539135205509</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539135205509</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1849" height="866" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24958494" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32928476" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Lzn/APP/models.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lzn/APP/exts.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

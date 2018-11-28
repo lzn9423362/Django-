@@ -1,0 +1,10 @@
+.main  {
+    width: 730px;
+    margin: auto;
+    overflow: hidden;
+    background: white;
+}
+
+body{
+    background: gainsboro;
+}

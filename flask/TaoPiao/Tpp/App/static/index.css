@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+ul, li {
+    list-style: none;
+}
+
+#box {
+    width: 600px;
+    height: 300px;
+    margin: 100px auto;
+    overflow: hidden;
+    border: 10px solid blue;
+    position: relative;
+}
+
+#list1 {
+    width: 3100px;
+    height: 300px;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+#list1 li, #list1 img {
+    width: 600px;
+    height: 300px;
+}
+
+#list1 li {
+    float: left;
+}
+
+#list2 {
+    width: 150px;
+    height: 20px;
+    position: absolute;
+    right: 30px;
+    bottom: 30px;
+}
+
+#list2 li {
+    width: 18px;
+    height: 18px;
+    border: 1px solid black;
+    background: yellow;
+    text-align: center;
+    line-height: 18px;
+    margin-left: 5px;
+    float: left;
+    cursor: pointer;
+}
+
+#list2 li.active {
+    background: green;
+}
+
+#prev, #next {
+    width: 50px;
+    height: 22px;
+    background: orange;
+    position: absolute;
+    top: 45%;
+    cursor: pointer;
+}
+
+#prev {
+    left: 10px;
+}
+
+#next {
+    right: 10px;
+}
+

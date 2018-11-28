@@ -1,0 +1,1112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ac7699e-58ff-4f88-97b4-6a67732ac4f7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Django/Day12/.idea/Day12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/Day12/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/Day12/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/Day12/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/Day12/APP/.idea/APP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/Day12/APP/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/Day12/APP/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/Day12/APP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/Day12/APP/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/DayClassView/ClassViewPro/.idea/ClassViewPro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/DayClassView/ClassViewPro/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/DayClassView/ClassViewPro/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/DayClassView/ClassViewPro/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/DayClassView/ClassViewPro/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/DayClassView/ClassViewPro/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/DayClassView/ClassViewPro/App/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/DayClassView/ClassViewPro/App/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/DayClassView/ClassViewPro/App/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/DayClassView/ClassViewPro/App/templates/user_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/DayClassView/ClassViewPro/App/templates/user_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/DayClassView/ClassViewPro/App/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/Test/Jsonp/.idea/Jsonp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/Test/Jsonp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/Test/Jsonp/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/Test/Jsonp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/Test/Jsonp/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/Test/Jsonp/APP/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/Test/Jsonp/APP/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/Test/Jsonp/APP/templates/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/Test/Jsonp/APP/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/Zhifubao/.idea/Zhifubao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/Zhifubao/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/Zhifubao/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/Zhifubao/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/Zhifubao/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/Zhifubao/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/Zhifubao/AXFAlipay/.idea/AXFAlipay.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/Zhifubao/AXFAlipay/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/Zhifubao/AXFAlipay/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/Zhifubao/AXFAlipay/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/Zhifubao/AXFAlipay/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/Zhifubao/AXFAlipay/AXFAlipay/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/Zhifubao/AXFAlipay/AXFAlipay/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/Zhifubao/AXFAlipay/AXFAlipay/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/Zhifubao/AXFAlipay/AXFAlipay/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/Zhifubao/AXFAlipay/App/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/Zhifubao/AXFAlipay/App/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/Zhifubao/AXFAlipay/App/alipay/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/Zhifubao/AXFAlipay/App/alipay/alipay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/Zhifubao/AXFAlipay/App/alipay/ying_yong_gong_yao.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/Zhifubao/AXFAlipay/App/alipay/ying_yong_si_yao.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/Zhifubao/AXFAlipay/App/alipay/zhi_fu_bao_gong_yao.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/Zhifubao/AXFAlipay/App/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/Zhifubao/AXFAlipay/App/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/Zhifubao/AXFAlipay/App/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/Zhifubao/AXFAlipay/App/static/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/Zhifubao/AXFAlipay/App/static/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/Zhifubao/AXFAlipay/App/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/Zhifubao/AXFAlipay/App/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/Zhifubao/AXFAlipay/App/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/Zhifubao/AXFAlipay/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Django/Zhifubao/AXFAlipay/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/flask.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day01/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day01/APP1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day01/APP1/App/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day01/APP1/App/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day01/APP1/App/static/css/response.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day01/APP1/App/templates/response.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day01/APP1/App/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/ModelPro/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/ModelPro/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/ModelPro/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/ModelPro/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/ModelPro/App/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/ModelPro/App/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/ModelPro/App/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/ModelPro/App/templates/paginator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/ModelPro/App/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/TemplatePro/app/static/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/TemplatePro/app/static/js/base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/TemplatePro/app/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/TemplatePro/app/templates/common.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/TemplatePro/app/templates/exts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/TemplatePro/app/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/TemplatePro/app/templates/index_include.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/TemplatePro/app/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/cookie/.idea/cookie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/cookie/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/cookie/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/cookie/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/cookie/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/cookie/App/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/cookie/App/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/cookie/App/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/cookie/App/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/cookie/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day02/fisher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day03/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day03/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day03/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day03/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day04/FlaskPro/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day04/FlaskPro/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day04/FlaskPro/APP/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day04/FlaskPro/APP/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day04/FlaskPro/APP/exts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day04/FlaskPro/APP/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day04/FlaskPro/APP/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day04/FlaskPro/APP/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day04/FlaskPro/APP/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day04/FlaskPro/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day04mysql/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05/FlaskPro/.idea/FlaskPro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05/FlaskPro/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05/FlaskPro/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05/FlaskPro/.idea/dataSources/8ffbed3c-041c-4a81-9765-065642a87443/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05/FlaskPro/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05/FlaskPro/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05/FlaskPro/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05/FlaskPro/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05/FlaskPro/App/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05/FlaskPro/App/exts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05/FlaskPro/App/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05/FlaskPro/App/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05/FlaskPro/App/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05/FlaskPro/App/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05/FlaskPro/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05/FlaskPro/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05script/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05script/app/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05script/app/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05script/app/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05script/app/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05script/app/db_script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05script/app/exts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05script/app/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day05script/app/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day06Session/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day06Session/app/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day07search/app/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day07search/app/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day07search/app/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day07search/app/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/.idea/Day08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/lzn/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/lzn/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/lzn/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/lzn/exts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/lzn/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/lzn/md5password.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/lzn/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/lzn/static/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/lzn/static/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/lzn/static/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/lzn/static/css/question.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/lzn/static/css/regist.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/lzn/static/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/lzn/static/css/swiper.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/lzn/static/js/base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/lzn/static/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/lzn/static/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/lzn/static/js/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/lzn/static/js/md5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/lzn/static/js/regist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/lzn/static/js/swiper.jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/lzn/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/lzn/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/lzn/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/lzn/templates/question.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day08/lzn/templates/regist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day09/Library/APP/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day09/Library/APP/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day09/Library/APP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day09/Library/APP/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day09/Library/APP/app/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day09/Library/APP/app/exts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day09/Library/APP/app/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day09/Library/APP/app/templates/author_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day09/Library/APP/app/templates/book_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day09/Library/APP/app/templates/book_index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day09/Library/APP/app/templates/book_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day09/Library/APP/app/templates/publisher_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day09/Library/APP/app/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/.idea/RestfulPro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/.idea/dataSources/8ffbed3c-041c-4a81-9765-065642a87443/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/.idea/dataSources/cd535708-309d-4c28-b99f-c6da3ca6921a.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/apis/BannerApi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/apis/GoodsApi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/apis/LoginApi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/apis/RegisterApi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/apis/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/exts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/img/banner/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/img/banner/banner1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/img/banner/banner2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/img/banner/banner3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/img/banner/banner4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/img/banner/banner5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/img/banner/banner6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/img/banner/banner7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/img/goods/1.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/img/goods/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/img/goods/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/img/goods/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/img/goods/4.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/img/goods/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/img/goods/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/img/goods/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/img/goods/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/img/goods/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/font/iconfont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/font/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/font/iconfont.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/font/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/font/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/font/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14019668092516.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14399544846782.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477248162526.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477258985459.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477267323870 (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477267323870 (2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477267323870.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477267323919 (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477267323919.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477272296808.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477274206917.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477282116284 (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477282116284.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477284508184.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477284515625 (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477284515625.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477284519867.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477287608582 (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477287608582 (2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477287608582.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477290286824.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477290292344 (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477290292344.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477294501655 (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477294501655.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477294515385.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477298392255.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477302246498.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477302268582 (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477302268582.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477305449735.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477306892349.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477308355912.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477312236406.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477314136401.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477315605971.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477318724845 (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477318724845.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477320365133.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477320366584.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477378665957 (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477378665957.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477378676085 (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477378676085.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477384711748.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477388141982.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477389702112.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477389709986.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477391395609.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477391399663.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477396117694.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477401441012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477401441546.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477406185992 (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477406185992 (2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477406185992.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477414658831.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477416914159 (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477416914159.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477416916999 (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477416916999.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477416926764.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477419321653.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477419323290.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477423102347.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477425318150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477430742198.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477430744531.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477432418542 (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477432418542.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477432448399.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477432452427 (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477432452427.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477452673974.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477452686893.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477454559904.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477454567787.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477460482377.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477460557662.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477460558710.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477462462623.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477465109485.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477468884790.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477468896235.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14477540266156.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14479263905429.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14524832304110.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14567178388519 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14567178388519.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14573334151389.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14573334153472.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14573334155819.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14574272432846.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14643313037366.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/14712476653414.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/147255231014_214x108.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/147418184838_214x108.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/147635292315_214x108.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/147669863333_214x108.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/147857457032_1300x80.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/148178895014_800x800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/148954620169_800x800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/149007476555_214x108.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/149180234138_234x329.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/149180936447_234x329.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/149239067616_234x329.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/149247926655_1440x520.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/149318024755_800x800 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/149318024755_800x800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/149318024862_800x800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/149482910148_214x108 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/149482910148_214x108.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/149802300138_800x800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/149802300138_800x8003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/149802300138_800x800afdsf.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/149861846565_800x800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150097143168_800x800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150391834154_275x180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150399151112_275x180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150399151212_275x180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150399151359_275x180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150439362344_880x1320_800x800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150439363532_880x1320_800x800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150439364184_880x1320_800x800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150451239098_598x293 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150451239098_598x293.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150457562519_800x800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150457562524_800x800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150457562543_800x800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150520273089_800x800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150520415180_275x180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150520416347_275x180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150520416423_275x180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150520416487_275x180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150520416492_275x180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150520416521_275x180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150520416566_275x180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150520416581_275x180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150520416759_275x180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150520416765_275x180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150520416772_275x180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150545486515_275x180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150545486551_275x180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150545486653_275x180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150545486689_275x180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150595998112_800x800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150595998468_800x800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150595998497_800x800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150624600134_989x1320_800x800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150630768841_1440x520.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150640838050_293x293 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150640838050_293x293.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150640838079_293x293 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150640838079_293x293.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150640838090_293x293 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150640838090_293x293 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150640838090_293x293.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150640838124_293x293 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150640838124_293x293.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150641819376_398x517.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150641819455_398x255.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150641819556_398x255.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150641949550_398x255.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150641949597_398x255.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150648293412_1440x520.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150657102641_1440x520.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150666887380_800x800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150674007795_1440x520.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150675183045_800x800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150734409819_1571x2000.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150741123459_1571x2000.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150741627916_880x1320_800x800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150741759014_505x864_800x800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150750368042_505x864_800x800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150751242711_1440x520.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150753035037_390x370.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150753035084_390x370.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150753035173_390x370.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150753035213_390x370 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150753035213_390x370 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150753035213_390x370.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150753035361_390x370 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150753035361_390x370.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150753039957_366x515.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150753045411_366x515.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150753107086_1571x2000.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150753271868_236x329.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150753271894_236x329.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150753447460_800x800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150753898924_275x180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150753898977_275x180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150753899024_275x180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150753899028_275x180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150753899090_275x180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150753899175_275x180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150753899199_275x180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150753899233_275x180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150753899245_275x180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150753899386_275x180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150753899392_275x180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150753899415_275x180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150753899560_275x180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150753899575_275x180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150753899611_275x180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150753899680_275x180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150753899747_275x180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150753899825_275x180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150753899877_275x180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150754354183_598x293 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150754354183_598x293.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150759027561_505x864_800x800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150767776485_384x580_800x800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150767804670_384x580_800x800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150794884846_1571x2000.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150802742533_989x1320_800x800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150802743134_989x1320_800x800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150802743847_989x1320_800x800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150802744532_989x1320_800x800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150812138086_800x800 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150812138086_800x800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150812138166_800x800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150814254538_390x370.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150814254643_390x370.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150814254699_390x370.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150829035724_1440x520.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150831322635_387x490.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150831322737_387x490.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150831323345_1571x2000.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150831366344_1571x2000.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150831720595_387x490.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150831720728_387x490.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/150831722934_1571x2000.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/1promotionpic (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/1promotionpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/2promotionpic (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/2promotionpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/3bank (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/3bank.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/3promotionpic (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/3promotionpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/4promotionpic (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/4promotionpic (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/4promotionpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/5promotionpic (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/5promotionpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/6promotionpic (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/6promotionpic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/aaa-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/core.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/faith_enterprise.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/foot_popup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/footer_message01 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/footer_message01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/footer_message02 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/footer_message02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/footer_message03 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/footer_message03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/footer_message04 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/footer_message04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/footer_message05 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/footer_message05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/footer_message06 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/footer_message06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/footer_message07 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/footer_message07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/footer_message10 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/footer_message10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/footer_message11 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/footer_message11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/footer_message_bg (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/footer_message_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/good_load.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/goodtitle1 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/goodtitle1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/goodtitle2 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/goodtitle2 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/goodtitle2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/goodtitle3 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/goodtitle3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/goodtitle4 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/goodtitle4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/goodtitle6 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/goodtitle6 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/goodtitle6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/guarantee.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/guaranteed_warranty (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/guaranteed_warranty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/hotstore_t (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/hotstore_t.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/jlt.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/jlt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/jlt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/left-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/lys_800x800.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/mainx_brandship (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/mainx_brandship.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/pic.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/promotiontitle (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/promotiontitle.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/qr (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/qr.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/right-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/right-1.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/right1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/saved_resource.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/shopcenter (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/shopcenter.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/stat.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/storesametitle (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/storesametitle.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/templateleft.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/templateright.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/userinfo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/v30cart (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/v30cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/wdy-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/weixin_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/images/yijian.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/img/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/js/jquery-1.12.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/js/jquery.cookie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/index/js/move.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/css/enter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/css/register.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/14567178388519 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/banner1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/banner2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/banner3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/banner4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/banner5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/banner6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/banner7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/footer_message01 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/footer_message02 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/footer_message03 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/footer_message03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/footer_message04 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/footer_message04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/footer_message05 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/footer_message05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/footer_message06 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/footer_message06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/footer_message07 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/footer_message07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/footer_message10 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/footer_message10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/footer_message11 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/footer_message11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/footer_message_bg (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/footer_message_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/goodtitle1 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/goodtitle1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/goodtitle2 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/goodtitle2 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/goodtitle2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/goodtitle3 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/goodtitle3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/goodtitle4 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/goodtitle4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/goodtitle6 (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/goodtitle6 (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/goodtitle6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/guarantee.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/guaranteed_warranty (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/guaranteed_warranty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/hotstore_t (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/hotstore_t.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/left-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/login_background1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/mainx_brandship (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/mainx_brandship.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/phone-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/qr (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/qr.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/right1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/images/yijian.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/img/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/js/gVerify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/js/jquery.idcode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/js/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/static/register/js/register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/App/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/json/goods.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/json/goods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/KaoShi/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EXAM/RestfulPro/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Shiyan/FlaskPro/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TD01/.idea/TD01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TD01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TD01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TD01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TD01/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TD01/app/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaoPiao/Tpp/.idea/RestfulPro.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaoPiao/Tpp/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaoPiao/Tpp/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaoPiao/Tpp/.idea/dataSources/8ffbed3c-041c-4a81-9765-065642a87443/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaoPiao/Tpp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaoPiao/Tpp/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaoPiao/Tpp/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaoPiao/Tpp/App/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaoPiao/Tpp/App/apis/BannerApi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaoPiao/Tpp/App/apis/CinemasApi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaoPiao/Tpp/App/apis/CityApi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaoPiao/Tpp/App/apis/LoginApi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaoPiao/Tpp/App/apis/MoviesApi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaoPiao/Tpp/App/apis/PermissionApi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaoPiao/Tpp/App/apis/UserActive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaoPiao/Tpp/App/apis/UserRegisterApi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaoPiao/Tpp/App/apis/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaoPiao/Tpp/App/apis/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaoPiao/Tpp/App/exts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaoPiao/Tpp/App/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaoPiao/Tpp/App/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaoPiao/Tpp/App/static/images/b1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaoPiao/Tpp/App/static/images/b2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaoPiao/Tpp/App/static/images/b3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaoPiao/Tpp/App/static/images/b4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaoPiao/Tpp/App/static/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaoPiao/Tpp/App/static/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaoPiao/Tpp/App/static/jquery-1.12.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaoPiao/Tpp/App/static/movies.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaoPiao/Tpp/App/static/movies.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaoPiao/Tpp/App/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaoPiao/Tpp/App/templates/movies.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaoPiao/Tpp/App/templates/redister.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaoPiao/Tpp/App/templates/user_active.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaoPiao/Tpp/App/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaoPiao/Tpp/App/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaoPiao/Tpp/json/city.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaoPiao/Tpp/json/citys.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaoPiao/Tpp/json/use_json.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TaoPiao/Tpp/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/periodic_task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lzn/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lzn/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lzn/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lzn/APP/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lzn/APP/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lzn/APP/exts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lzn/APP/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lzn/APP/static/css/register.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lzn/APP/static/js/jquery-1.12.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lzn/APP/static/js/md5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lzn/APP/static/js/register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lzn/APP/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lzn/APP/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lzn/APP/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lzn/APP/templates/student_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lzn/APP/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../分页/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../scrapy/D_01/.idea/D_01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../scrapy/D_01/t01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../scrapy/D_01/t01/01_try_requests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../scrapy/D_01/t01/02_try_request_post.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../scrapy/D_01/t01/03_try_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../scrapy/D_01/t01/04_try_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../scrapy/D_01/t01/05_try_login2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../scrapy/D_01/t01/06_try_json.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../scrapy/D_01/t01/07_trip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../scrapy/D_01/t01/08_try_mb_trip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../scrapy/D_01/t01/09_trip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../scrapy/D_01/t01/10_try_58.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../scrapy/D_01/t01/11_channel_extract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../scrapy/D_01/t01/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../scrapy/D_01/t01/page_parsing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../scrapy/D_01/t01/parse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../scrapy/D_01/t01/renren.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../scrapy/D_01/t01/try_ mongodb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../scrapy/D_01/t01/无序列表找中位数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../scrapy/D_01/t02/channel_extract.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../scrapy/D_01/t02/counts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../scrapy/D_01/t02/ctx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../scrapy/D_01/t02/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../scrapy/D_01/t02/page_parsing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../scrapy/D_01/t02/xinghaibiaoshi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../scrapy/untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../scrapy/untitled/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Django/Day03/Day03Django/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Django/Day03/Day03Django/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Django/Day05/Day05Django/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Django/Day05/Day05Django/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Django/Day07/高级进阶/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Django/Day07/高级进阶/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Django/Day08/AXF/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Django/Day08/AXF/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Django/Day08/Day08Django/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Django/Day08/Day08Django/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Django/Day08/Day08Django/myapp/templates/myapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Django/Day08/Day08Django/myapp/templates/myapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Django/Day11/Test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Django/Day11/Test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Django/Test/LuZhenNan/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Django/Test/LuZhenNan/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Django/Test/LuZhenNan/APP/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Django/Test/LuZhenNan/APP/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Django/Test/LuZhenNan/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Django/Test/LuZhenNan/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Django/Test/LuZhenNan/static/js/register.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Django/Test/LuZhenNan/static/js/register.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Django/Test/LuZhenNan/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Django/Test/LuZhenNan/templates/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test.sh" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/LZN$periodic_task.coverage" NAME="periodic_task Coverage Results" MODIFIED="1539828051536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LZN$manage.coverage" NAME="manage Coverage Results" MODIFIED="1539828605128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LZN$task.coverage" NAME="task Coverage Results" MODIFIED="1539828431056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1490628830">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="1" />
+          <entry key="py" value="723" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="723" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="6" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tasks.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+                <marker date="1539828407096" expanded="true" signature="274:305" ph="..." />
+                <marker date="1539828407096" expanded="true" signature="423:462" ph="..." />
+                <marker date="1539828407096" expanded="true" signature="485:531" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/periodic_task.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+                <marker date="1540011556951" expanded="true" signature="204:209" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.virtualenvs/celery/lib/python3.6/site-packages/celery/__main__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.virtualenvs/celery/lib/python3.6/site-packages/celery/app/base.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4710">
+              <caret line="360" selection-start-line="360" selection-end-line="360" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/task.py" />
+        <option value="$PROJECT_DIR$/manage.py" />
+        <option value="$PROJECT_DIR$/tasks.py" />
+        <option value="$PROJECT_DIR$/periodic_task.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="762" />
+    <option name="height" value="721" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LZN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LZN" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.manage">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LZN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="periodic_task" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LZN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/periodic_task.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LZN" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tasks.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.task" />
+      <item itemvalue="Python.periodic_task" />
+      <item itemvalue="Python.manage" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.manage" />
+        <item itemvalue="Python.task" />
+        <item itemvalue="Python.periodic_task" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ac7699e-58ff-4f88-97b4-6a67732ac4f7" name="Default Changelist" comment="" />
+      <created>1539077348588</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539077348588</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1493" height="808" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.37146795" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.51902586" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3601757" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32876712" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../Day05/FlaskPro/App/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2015" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/celery/lib/python3.6/site-packages/celery/__main__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/celery/lib/python3.6/site-packages/celery/app/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4710">
+          <caret line="360" selection-start-line="360" selection-end-line="360" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tasks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <marker date="1539828407096" expanded="true" signature="274:305" ph="..." />
+            <marker date="1539828407096" expanded="true" signature="423:462" ph="..." />
+            <marker date="1539828407096" expanded="true" signature="485:531" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/periodic_task.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+            <marker date="1540011556951" expanded="true" signature="204:209" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
